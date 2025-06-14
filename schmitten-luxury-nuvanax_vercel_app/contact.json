@@ -1,0 +1,138 @@
+{
+  "page_info": {
+    "url": "https://schmitten-luxury-nuvanax.vercel.app/contact",
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "word_count": 71,
+    "crawled_at": "2025-06-14T08:59:04.695708",
+    "h1_tags": [
+      "Get in Touch"
+    ],
+    "h2_tags": [
+      "Contact Information",
+      "Send Us a Message"
+    ],
+    "internal_links_count": 0,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Schmitten Luxury Chocolates",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "logo": "https://schmitten-luxury-nuvanax.vercel.app/images/schmitten-logo.png",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "123 Cocoa Avenue, Chocolate District",
+          "addressLocality": "Mumbai",
+          "addressRegion": "MH",
+          "postalCode": "400001",
+          "addressCountry": "IN"
+        },
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "telephone": "+91 1234 567 890",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": [
+              "en"
+            ]
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+91 9876 543 210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": [
+              "en"
+            ]
+          }
+        ],
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "19.120485",
+          "longitude": "72.847919"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "opens": "10:00",
+            "closes": "20:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Sunday",
+            "opens": "11:00",
+            "closes": "18:00"
+          }
+        ]
+      },
+      {
+        "@type": "ContactPage",
+        "name": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/contact",
+        "datePublished": "2023-10-27",
+        "dateModified": "2023-10-27",
+        "mainEntity": {
+          "@id": "#organization"
+        },
+        "potentialAction": {
+          "@type": "ContactAction",
+          "name": "Contact Us",
+          "target": "https://schmitten-luxury-nuvanax.vercel.app/contact"
+        },
+        "publisher": {
+          "@id": "#organization"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Contact",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/contact"
+          }
+        ]
+      }
+    ],
+    "@type": "ContactPage"
+  },
+  "metadata": {
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "h1_tags": [
+      "Get in Touch"
+    ],
+    "h2_tags": [
+      "Contact Information",
+      "Send Us a Message"
+    ],
+    "keywords": "",
+    "canonical_url": "https://schmitten-luxury-nuvanax.vercel.app/contact",
+    "word_count": 71,
+    "internal_links": [],
+    "external_links": []
+  },
+  "content_preview": "Get in TouchWe'd love to hear from you. Reach out to us with any questions, feedback, or inquiries.Contact InformationReach out to us through any of these channelsVisit UsSchmitten Luxury Chocolates123 Cocoa Avenue, Chocolate DistrictMumbai, 400001, IndiaCall Us+91 1234 567 890+91 9876 543 210Email Usinfo@schmitten.cosupport@schmitten.coOpening HoursMonday - Saturday: 10:00 AM - 8:00 PMSunday: 11:00 AM - 6:00 PMSend Us a MessageWe'll get back to you as soon as possibleNameEmailPhoneSubjectSelect a subjectMessageSend Message"
+}

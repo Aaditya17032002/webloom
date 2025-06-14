@@ -1,0 +1,151 @@
+{
+  "page_info": {
+    "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "word_count": 278,
+    "crawled_at": "2025-06-14T08:58:53.054954",
+    "h1_tags": [
+      "Indulge in the Art ofLuxury Chocolate"
+    ],
+    "h2_tags": [
+      "Indulge in Exquisite Flavors",
+      "Crafted with Passion,Savored with Pleasure",
+      "Gifts That Leave a Lasting Impression",
+      "What Our Customers Say",
+      "@schmittenchocolates",
+      "Join theSchmittenFamily"
+    ],
+    "internal_links_count": 16,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Schmitten Luxury Chocolates",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "logo": "https://schmitten-luxury-nuvanax.vercel.app/images/logo.png",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Luxury Chocolate HQ",
+          "addressLocality": "Chocolateville",
+          "addressRegion": "CA",
+          "postalCode": "90210",
+          "addressCountry": "US"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+1-555-CHOCOLATE",
+          "contactType": "customer service",
+          "areaServed": "US",
+          "availableLanguage": [
+            "en"
+          ]
+        },
+        "sameAs": [
+          "https://www.facebook.com/schmittenchocolates",
+          "https://www.instagram.com/schmittenchocolates",
+          "https://twitter.com/schmitten"
+        ]
+      },
+      {
+        "@type": "Product",
+        "name": "Schmitten Luxury Chocolates",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "image": [
+          "https://m.media-amazon.com/images/I/61bUBytDFDL.jpg",
+          "https://www.jiomart.com/images/product/original/rv5ytu7ap0/schmitten-luxury-intense-dark-chocolate-70-g-pack-of-6-product-images-orv5ytu7ap0-p600744265-6-202305171710.jpg?im=Resize=(420,420)",
+          "https://m.media-amazon.com/images/I/71lyw1oyGgL._AC_UF1000,1000_QL80_.jpg",
+          "https://m.media-amazon.com/images/I/7158zhS06CL.jpg"
+        ],
+        "brand": {
+          "@type": "Organization",
+          "name": "Schmitten"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "USD",
+          "lowPrice": 650,
+          "highPrice": 1800,
+          "offerCount": 4
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "250"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "name": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-11-15",
+        "inLanguage": "en-US",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://schmitten-luxury-nuvanax.vercel.app/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "mainEntity": {
+          "@id": "#product"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/"
+          }
+        ]
+      }
+    ],
+    "@type": "Product"
+  },
+  "metadata": {
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "h1_tags": [
+      "Indulge in the Art ofLuxury Chocolate"
+    ],
+    "h2_tags": [
+      "Indulge in Exquisite Flavors",
+      "Crafted with Passion,Savored with Pleasure",
+      "Gifts That Leave a Lasting Impression",
+      "What Our Customers Say",
+      "@schmittenchocolates",
+      "Join theSchmittenFamily"
+    ],
+    "keywords": "",
+    "canonical_url": "https://schmitten-luxury-nuvanax.vercel.app/",
+    "word_count": 278,
+    "internal_links": [
+      "https://schmitten-luxury-nuvanax.vercel.app/collections",
+      "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections/signature-truffles",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections/signature-truffles",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections/pralines",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections/pralines",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections/bars",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections/bars",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections/assortments",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections/assortments",
+      "https://schmitten-luxury-nuvanax.vercel.app/collections",
+      "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story",
+      "https://schmitten-luxury-nuvanax.vercel.app/gifting/corporate",
+      "https://schmitten-luxury-nuvanax.vercel.app/gifting/occasions",
+      "https://schmitten-luxury-nuvanax.vercel.app/gifting/personalized",
+      "https://schmitten-luxury-nuvanax.vercel.app/gifting"
+    ],
+    "external_links": []
+  },
+  "content_preview": "Indulge in the Art ofLuxury ChocolateExperience the exquisite craftsmanship of Schmitten, where every piece tells a story of passion, tradition, and the finest ingredients.Explore CollectionsOur StoryScroll to discoverIndulge in Exquisite FlavorsHandcrafted with the finest ingredients, our chocolates are a symphony of taste and texture.Signature Truffle CollectionOur award-winning handcrafted truffles with ganache centers₹1,200View productDark Chocolate PralinesDelicate shells with luscious fillings and premium cocoa₹950View productArtisanal Chocolate BarsSingle-origin bars crafted with rare cocoa varieties₹650View productLuxury Assortment BoxA curated collection of our finest chocolates₹1,800View productExplore All CollectionsCrafted with Passion,Savored with PleasureAt Schmitten, we believe that chocolate is more than just a treat—it's an experience. Our master chocolatiers blend traditional techniques with innovative flavors to create chocolates that delight all your senses.From bea"
+}

@@ -1,0 +1,45 @@
+## Summary
+Schmitten Luxury Chocolates is a website showcasing and selling handcrafted luxury chocolates. The site aims to provide an exquisite collection of premium chocolates. However, many key pages like Terms of Service, Privacy Policy, Shipping Policy are currently unavailable (404 errors).
+
+## Content Types
+* Product landing pages (implied, but limited example)
+* Brand story (Our Story)
+* Gifting options
+* Store locator
+* Contact Information
+* Error Pages (404)
+
+## Primary Audience
+* Chocolate connoisseurs
+* Individuals seeking luxury gifts
+* Customers looking for premium chocolate products
+
+## Key Topics
+* Luxury Chocolates
+* Handcrafted Chocolates
+* Premium Ingredients (implied)
+* Gifting
+* Store Locations
+* Brand Story
+
+## Preferred Summary Style
+Descriptive and enticing, emphasizing the luxury aspect and premium quality of the chocolates. Focus on flavors, ingredients (if available), and the overall experience of indulging in Schmitten chocolates.
+
+## Important Sections
+* / (Homepage): Introductory information about the brand and chocolates.
+* /gifting: Information about chocolate gifting options.
+* /stores: Locations of Schmitten chocolate stores.
+* /schmitten-world/our-story: Brand narrative and history.
+* /contact: Contact information for inquiries.
+
+## Ignore Sections
+* 404 error pages (e.g., /terms-of-service, /privacy-policy, /shipping-policy) - These pages are not functional and should be ignored.
+
+## Language
+en-US
+
+## Last Updated
+2024-12-14 (Assuming today's date as update is based on crawl).
+
+## Contact Preference
+Provide contact information for general inquiries and potential partnerships. Avoid sharing or requesting personal customer data beyond what is necessary for contact.

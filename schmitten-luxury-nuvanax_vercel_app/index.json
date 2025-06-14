@@ -1,0 +1,66 @@
+{
+  "website": {
+    "domain": "schmitten-luxury-nuvanax.vercel.app",
+    "crawl_date": "2025-06-14T08:59:42.408941",
+    "total_pages": 10,
+    "job_id": "8714ad1b-2f7c-4f73-8db3-ff7e83925cd4"
+  },
+  "pages": [
+    {
+      "filename": "homepage.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+      "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors"
+    },
+    {
+      "filename": "terms-of-service.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/terms-of-service",
+      "title": "404: This page could not be found."
+    },
+    {
+      "filename": "privacy-policy.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/privacy-policy",
+      "title": "404: This page could not be found."
+    },
+    {
+      "filename": "contact.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/contact",
+      "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors"
+    },
+    {
+      "filename": "schmitten-world_our-story.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story",
+      "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors"
+    },
+    {
+      "filename": "shipping-policy.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/shipping-policy",
+      "title": "404: This page could not be found."
+    },
+    {
+      "filename": "gifting.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/gifting",
+      "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors"
+    },
+    {
+      "filename": "stores.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/stores",
+      "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors"
+    },
+    {
+      "filename": "collections_assortments.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/collections/assortments",
+      "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors"
+    },
+    {
+      "filename": "gifting_corporate.json",
+      "url": "https://schmitten-luxury-nuvanax.vercel.app/gifting/corporate",
+      "title": "404: This page could not be found."
+    }
+  ],
+  "cdn_info": {
+    "base_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/schmitten-luxury-nuvanax_vercel_app",
+    "loader_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/schmitten-luxury-nuvanax_vercel_app/schema-loader.js",
+    "minified_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/schmitten-luxury-nuvanax_vercel_app/schema-loader.min.js",
+    "llm_txt_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/schmitten-luxury-nuvanax_vercel_app/llm.txt"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "page_info": {
+    "url": "https://schmitten-luxury-nuvanax.vercel.app/gifting/corporate",
+    "title": "404: This page could not be found.",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "word_count": 6,
+    "crawled_at": "2025-06-14T08:59:39.720889",
+    "h1_tags": [
+      "404"
+    ],
+    "h2_tags": [
+      "This page could not be found."
+    ],
+    "internal_links_count": 0,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/gifting/corporate",
+        "name": "404: This page could not be found.",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "dateModified": "2023-10-27T10:00:00-07:00",
+        "datePublished": "2023-10-26T10:00:00-07:00",
+        "mainEntity": {
+          "@id": "#mainEntity"
+        }
+      },
+      {
+        "@type": "Organization",
+        "@id": "#organization",
+        "name": "Schmitten Luxury Chocolates",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app",
+        "logo": "https://schmitten-luxury-nuvanax.vercel.app/images/logo.png",
+        "description": "Experience the finest handcrafted luxury chocolates.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Geneva",
+          "addressCountry": "CH"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Gifting",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/gifting"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Corporate",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/gifting/corporate"
+          }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "name": "Schmitten Luxury Chocolates",
+        "description": "Experience the finest handcrafted luxury chocolates.",
+        "publisher": {
+          "@id": "#organization"
+        }
+      }
+    ],
+    "@type": "WebPage"
+  },
+  "metadata": {
+    "title": "404: This page could not be found.",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "h1_tags": [
+      "404"
+    ],
+    "h2_tags": [
+      "This page could not be found."
+    ],
+    "keywords": "",
+    "canonical_url": "https://schmitten-luxury-nuvanax.vercel.app/gifting/corporate",
+    "word_count": 6,
+    "internal_links": [],
+    "external_links": []
+  },
+  "content_preview": "404This page could not be found."
+}

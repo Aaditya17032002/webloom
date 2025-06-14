@@ -1,0 +1,142 @@
+{
+  "page_info": {
+    "url": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story",
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "word_count": 300,
+    "crawled_at": "2025-06-14T08:59:11.257488",
+    "h1_tags": [
+      "Our Story"
+    ],
+    "h2_tags": [
+      "A Passion for Chocolate",
+      "Our Values & Vision",
+      "Meet Our Team"
+    ],
+    "internal_links_count": 2,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Schmitten Luxury Chocolates",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "logo": "https://schmitten-luxury-nuvanax.vercel.app/images/schmitten-logo.png",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Mumbai",
+          "addressRegion": "MH",
+          "addressCountry": "IN"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "telephone": "+91-XXX-XXX-XXXX",
+          "email": "support@schmitten.com"
+        },
+        "sameAs": [
+          "https://www.facebook.com/SchmittenChocolates",
+          "https://www.instagram.com/schmittenchocolate/",
+          "https://twitter.com/Schmitten"
+        ]
+      },
+      {
+        "@type": "AboutPage",
+        "name": "Schmitten Luxury Chocolates | Our Story",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story",
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-10-27",
+        "mainEntityOfPage": {
+          "@id": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story#webpage"
+        },
+        "breadcrumb": {
+          "@id": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story#breadcrumb"
+        },
+        "publisher": {
+          "@id": "https://schmitten-luxury-nuvanax.vercel.app/#organization"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Schmitten World",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Our Story",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story"
+          }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "name": "Schmitten Luxury Chocolates",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients."
+      },
+      {
+        "@type": "ImageObject",
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/45bc9f30804939.56335c6b20965.jpg",
+        "caption": "Our Story"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "https://t4.ftcdn.net/jpg/13/57/75/93/360_F_1357759394_EF8KxEF6tnBVwuf0A1xi4AKjTMQ1mOEP.jpg",
+        "caption": "Founder"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "https://www.lindt.ca/media/lindt-excellence-hero-expertise-five-words-every-chocolate-lover-should-know.jpg",
+        "caption": "Cocoa Farm"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "https://images.pexels.com/photos/910143/pexels-photo-910143.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "caption": "Rajesh Sharma"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "https://media.istockphoto.com/id/1311084168/photo/overjoyed-pretty-asian-woman-look-at-camera-with-sincere-laughter.jpg?s=612x612&w=0&k=20&c=akS4eKR3suhoP9cuk7_7",
+        "caption": "Priya Patel"
+      }
+    ],
+    "@type": "AboutPage"
+  },
+  "metadata": {
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "h1_tags": [
+      "Our Story"
+    ],
+    "h2_tags": [
+      "A Passion for Chocolate",
+      "Our Values & Vision",
+      "Meet Our Team"
+    ],
+    "keywords": "",
+    "canonical_url": "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world/our-story",
+    "word_count": 300,
+    "internal_links": [
+      "https://schmitten-luxury-nuvanax.vercel.app/",
+      "https://schmitten-luxury-nuvanax.vercel.app/schmitten-world"
+    ],
+    "external_links": []
+  },
+  "content_preview": "Our StoryThe journey of Schmitten Luxury Chocolates, from humble beginnings to a global chocolate brand.HomeSchmitten WorldOur StoryA Passion for ChocolateSchmitten Luxury Chocolates was born from a simple passion: to create the finest chocolates that delight all the senses. Our journey began in 2002 when our founder, Rajesh Sharma, returned from Switzerland with a dream to bring world-class chocolate craftsmanship to India.After years of studying under master chocolatiers in Europe, Rajesh established our first boutique in Mumbai, crafting small batches of handmade truffles and pralines that quickly gained a devoted following.2002Schmitten Luxury Chocolates was founded in Mumbai with a small boutique offering handcrafted truffles and pralines.2007Expanded to three locations across Mumbai and Delhi, introducing our signature chocolate bars and seasonal collections.2012Opened our state-of-the-art chocolate factory in Lonavala, allowing us to scale production while maintaining artisanal "
+}

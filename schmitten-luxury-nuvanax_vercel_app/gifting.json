@@ -1,0 +1,171 @@
+{
+  "page_info": {
+    "url": "https://schmitten-luxury-nuvanax.vercel.app/gifting",
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "word_count": 149,
+    "crawled_at": "2025-06-14T08:59:22.148812",
+    "h1_tags": [
+      "Gifts That Leave a Lasting Impression"
+    ],
+    "h2_tags": [
+      "The Art of Gifting",
+      "Featured Gift Collections"
+    ],
+    "internal_links_count": 11,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Schmitten Luxury Chocolates",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "logo": "https://schmitten-luxury-nuvanax.vercel.app/images/logo.png",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Luxury Chocolate HQ, Sample Address",
+          "addressLocality": "Sample City",
+          "addressRegion": "Sample Region",
+          "postalCode": "12345",
+          "addressCountry": "IN"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+91-1234567890",
+          "contactType": "customer service",
+          "areaServed": "IN",
+          "availableLanguage": "en"
+        },
+        "sameAs": [
+          "https://www.facebook.com/SampleSchmitten",
+          "https://www.instagram.com/SampleSchmitten",
+          "https://twitter.com/SampleSchmitten"
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Gifting",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/gifting"
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "name": "Schmitten Luxury Chocolates - Gifting",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients. Find the perfect chocolate gift for any occasion.",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/gifting",
+        "image": "https://schmitten-luxury-nuvanax.vercel.app/images/gifting/gifting-banner.jpg",
+        "brand": {
+          "@type": "Brand",
+          "name": "Schmitten"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "3500",
+          "highPrice": "5200",
+          "offerCount": "3"
+        },
+        "keywords": "luxury chocolates, gifting, chocolate gifts, corporate gifts, personalized gifts, chocolate hamper",
+        "datePublished": "2023-10-27",
+        "dateModified": "2023-10-27",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://schmitten-luxury-nuvanax.vercel.app/gifting"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Sample Reviewer 1"
+            },
+            "datePublished": "2023-10-26",
+            "reviewBody": "Beautiful and delicious chocolates! Perfect for gifting.",
+            "name": "Excellent Gift Option",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "5",
+              "worstRating": "1"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Sample Reviewer 2"
+            },
+            "datePublished": "2023-10-20",
+            "reviewBody": "The corporate hampers are a great way to impress clients.",
+            "name": "Perfect for Corporate Gifting",
+            "reviewRating": {
+              "@type": "Rating",
+              "bestRating": "5",
+              "ratingValue": "4",
+              "worstRating": "1"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://schmitten-luxury-nuvanax.vercel.app/gifting",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/gifting",
+        "name": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "datePublished": "2023-10-27",
+        "dateModified": "2023-10-27",
+        "about": {
+          "@id": "https://schmitten-luxury-nuvanax.vercel.app/gifting#product"
+        },
+        "publisher": {
+          "@id": "https://schmitten-luxury-nuvanax.vercel.app/#organization"
+        }
+      }
+    ],
+    "@type": "Product"
+  },
+  "metadata": {
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "h1_tags": [
+      "Gifts That Leave a Lasting Impression"
+    ],
+    "h2_tags": [
+      "The Art of Gifting",
+      "Featured Gift Collections"
+    ],
+    "keywords": "",
+    "canonical_url": "https://schmitten-luxury-nuvanax.vercel.app/gifting",
+    "word_count": 149,
+    "internal_links": [
+      "https://schmitten-luxury-nuvanax.vercel.app/contact",
+      "https://schmitten-luxury-nuvanax.vercel.app/gifting/corporate",
+      "https://schmitten-luxury-nuvanax.vercel.app/gifting/occasions",
+      "https://schmitten-luxury-nuvanax.vercel.app/gifting/personalized",
+      "https://schmitten-luxury-nuvanax.vercel.app/gifting/gift-cards",
+      "https://schmitten-luxury-nuvanax.vercel.app/products/1",
+      "https://schmitten-luxury-nuvanax.vercel.app/products/1",
+      "https://schmitten-luxury-nuvanax.vercel.app/products/2",
+      "https://schmitten-luxury-nuvanax.vercel.app/products/2",
+      "https://schmitten-luxury-nuvanax.vercel.app/products/3",
+      "https://schmitten-luxury-nuvanax.vercel.app/products/3"
+    ],
+    "external_links": []
+  },
+  "content_preview": "Gifts That Leave a Lasting ImpressionFrom corporate events to personal celebrations, our luxury chocolate gifts create memorable moments.The Art of GiftingAt Schmitten, we believe that the perfect gift should delight all the senses. Our luxury chocolate gifts are crafted with care and presented with elegance, making them the ideal choice for any occasion.Whether you're looking to impress clients, celebrate with loved ones, or simply show someone you care, our gifting specialists will help you create a memorable chocolate experience.Speak to a Gifting SpecialistCorporate GiftingImpress clients and colleagues with premium chocolate giftsExploreSpecial OccasionsCelebrate life's moments with exquisite chocolate creationsExplorePersonalized GiftsCustom chocolates with your personal touch and messageExploreGift CardsThe gift of choice for chocolate loversExploreFeatured Gift CollectionsOur most popular gift selections, perfect for any occasionLuxury Gift BoxAn elegant assortment of our signa"
+}

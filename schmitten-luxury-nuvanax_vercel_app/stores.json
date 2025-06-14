@@ -1,0 +1,205 @@
+{
+  "page_info": {
+    "url": "https://schmitten-luxury-nuvanax.vercel.app/stores",
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "word_count": 134,
+    "crawled_at": "2025-06-14T08:59:31.559670",
+    "h1_tags": [
+      "Visit Our Stores"
+    ],
+    "h2_tags": [
+      "Find a Schmitten Boutique"
+    ],
+    "internal_links_count": 0,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Schmitten Luxury Chocolates",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/",
+        "logo": "https://schmitten-luxury-nuvanax.vercel.app/images/schmitten-logo.png",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Mumbai",
+          "addressRegion": "MH",
+          "addressCountry": "IN"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+91 1234 567 890",
+          "contactType": "customer service",
+          "areaServed": "IN"
+        },
+        "sameAs": [
+          "https://www.facebook.com/SchmittenChocolates/",
+          "https://twitter.com/Schmitten_India",
+          "https://www.instagram.com/schmitten_india/"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "name": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+        "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/stores",
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-10-27",
+        "inLanguage": "en-US",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://schmitten-luxury-nuvanax.vercel.app/stores?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "mainEntity": {
+          "@id": "#mainEntity"
+        }
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "#mainEntity",
+        "name": "Visit Our Stores",
+        "description": "Find Schmitten Luxury Chocolate boutiques near you.",
+        "url": "https://schmitten-luxury-nuvanax.vercel.app/stores",
+        "about": {
+          "@id": "https://schmitten-luxury-nuvanax.vercel.app/#organization"
+        },
+        "hasPart": [
+          {
+            "@type": "Store",
+            "name": "Schmitten Flagship Store",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "123 Cocoa Avenue, Chocolate District",
+              "addressLocality": "Mumbai",
+              "addressRegion": "MH",
+              "postalCode": "400001",
+              "addressCountry": "IN"
+            },
+            "telephone": "+91 1234 567 890",
+            "openingHours": [
+              "Mo-Sa 10:00-20:00",
+              "Su 11:00-18:00"
+            ],
+            "image": "https://content3.jdmagicbox.com/comp/surat/y7/0261px261.x261.220416213926.w2y7/catalogue/schmitten-exclusive-chocolate-outlet-sarthana-surat-chocolate-retailers-mfrer9sksi.jpg",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "19.0760",
+              "longitude": "72.8777"
+            },
+            "url": "https://maps.google.com"
+          },
+          {
+            "@type": "Store",
+            "name": "Schmitten Boutique - Bandra",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "456 Luxury Lane, Bandra West",
+              "addressLocality": "Mumbai",
+              "addressRegion": "MH",
+              "postalCode": "400050",
+              "addressCountry": "IN"
+            },
+            "telephone": "+91 9876 543 210",
+            "openingHours": [
+              "Mo-Sa 11:00-21:00",
+              "Su 12:00-19:00"
+            ],
+            "image": "https://pbs.twimg.com/media/GWr8TlqW8AAqlaq.jpg",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "19.0676",
+              "longitude": "72.8323"
+            },
+            "url": "https://maps.google.com"
+          },
+          {
+            "@type": "Store",
+            "name": "Schmitten Boutique - Delhi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "789 Gourmet Street, Khan Market",
+              "addressLocality": "New Delhi",
+              "addressRegion": "DL",
+              "postalCode": "110003",
+              "addressCountry": "IN"
+            },
+            "telephone": "+91 1122 334 455",
+            "openingHours": [
+              "Mo-Sa 10:00-20:00",
+              "Su 11:00-18:00"
+            ],
+            "image": "https://pbs.twimg.com/media/FIvn3P2XEAYYLW-?format=jpg&name=4096x4096",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "28.6253",
+              "longitude": "77.2277"
+            },
+            "url": "https://maps.google.com"
+          },
+          {
+            "@type": "Store",
+            "name": "Schmitten Boutique - Bangalore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "321 Indulgence Road, Indiranagar",
+              "addressLocality": "Bangalore",
+              "addressRegion": "KA",
+              "postalCode": "560038",
+              "addressCountry": "IN"
+            },
+            "telephone": "+91 8080 707 060",
+            "openingHours": [
+              "Mo-Sa 10:30-20:30",
+              "Su 11:30-19:00"
+            ],
+            "image": "https://pbs.twimg.com/media/GXgHXHVW0AAyUX3.jpg",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "12.9716",
+              "longitude": "77.5946"
+            },
+            "url": "https://maps.google.com"
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Stores",
+            "item": "https://schmitten-luxury-nuvanax.vercel.app/stores"
+          }
+        ]
+      }
+    ],
+    "@type": "WebPage"
+  },
+  "metadata": {
+    "title": "Schmitten Luxury Chocolates | Indulge in Exquisite Flavors",
+    "description": "Experience the finest handcrafted luxury chocolates. Indulge in our exquisite collection of premium chocolates made with the finest ingredients.",
+    "h1_tags": [
+      "Visit Our Stores"
+    ],
+    "h2_tags": [
+      "Find a Schmitten Boutique"
+    ],
+    "keywords": "",
+    "canonical_url": "https://schmitten-luxury-nuvanax.vercel.app/stores",
+    "word_count": 134,
+    "internal_links": [],
+    "external_links": []
+  },
+  "content_preview": "Visit Our StoresExperience the world of Schmitten in person at our luxury boutiques.Find a Schmitten BoutiqueVisit us to experience our chocolates and receive personalized recommendationsFilter by citySchmitten Flagship Store123 Cocoa Avenue, Chocolate District, Mumbai, 400001+91 1234 567 890Monday - Saturday: 10:00 AM - 8:00 PM\nSunday: 11:00 AM - 6:00 PMView on MapSchmitten Boutique - Bandra456 Luxury Lane, Bandra West, Mumbai, 400050+91 9876 543 210Monday - Saturday: 11:00 AM - 9:00 PM\nSunday: 12:00 PM - 7:00 PMView on MapSchmitten Boutique - Delhi789 Gourmet Street, Khan Market, New Delhi, 110003+91 1122 334 455Monday - Saturday: 10:00 AM - 8:00 PM\nSunday: 11:00 AM - 6:00 PMView on MapSchmitten Boutique - Bangalore321 Indulgence Road, Indiranagar, Bangalore, 560038+91 8080 707 060Monday - Saturday: 10:30 AM - 8:30 PM\nSunday: 11:30 AM - 7:00 PMView on Map"
+}
