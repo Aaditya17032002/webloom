@@ -1,0 +1,141 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/careers.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 237,
+    "crawled_at": "2025-06-14T08:47:43.834518",
+    "h1_tags": [
+      "Explore Exciting Career Opportunities with Us"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 15,
+    "external_links_count": 2
+  },
+  "json_ld": {
+    "@context": "https://schema.org/",
+    "@type": "JobPosting",
+    "title": "Career Opportunities at UCI-INDIA",
+    "description": "Explore exciting career opportunities with UCI-INDIA, a leading IT solutions provider. Join our dynamic team and contribute to innovative projects in Salesforce development, UI/UX design, cloud technologies, and creative solutions. Apply now and become part of our success story.",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "UCI-INDIA",
+      "url": "https://www.uci-india.com",
+      "logo": "https://www.uci-india.com/images/UCI_Logo.png"
+    },
+    "jobLocationType": "Hybrid",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "USD",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 60000,
+        "maxValue": 120000,
+        "unitText": "YEAR"
+      }
+    },
+    "validThrough": "2024-12-31T00:00:00",
+    "employmentType": [
+      "FULL_TIME",
+      "CONTRACTOR"
+    ],
+    "specialCommitments": "UCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.",
+    "industry": "Information Technology",
+    "url": "https://www.uci-india.com/careers.html",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.uci-india.com/careers.html"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Open Positions at UCI-INDIA",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "JobPosting",
+            "title": "Salesforce Developer",
+            "description": "Design, develop, and maintain customized solutions within the Salesforce platform, ensuring seamless integration, scalability, and efficiency in delivering business-critical applications.",
+            "url": "https://www.uci-india.com/applicationForm.html",
+            "jobLocationType": "Hybrid",
+            "employmentType": "FULL_TIME",
+            "applicationInstructions": "Apply through our online application form.",
+            "validThrough": "2024-12-31T00:00:00"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "JobPosting",
+            "title": "UI / UX Designer",
+            "description": "Responsible for creating intuitive, user-friendly interfaces, conducting user research, and designing prototypes that enhance user experiences and align with business goals.",
+            "url": "https://www.uci-india.com/applicationForm.html",
+            "jobLocationType": "Hybrid",
+            "employmentType": "FULL_TIME",
+            "applicationInstructions": "Apply through our online application form.",
+            "validThrough": "2024-12-31T00:00:00"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "JobPosting",
+            "title": "Microsoft Azure Specialist",
+            "description": "Manage and deploy scalable cloud solutions in Microsoft Azure, ensuring optimal performance, security, and reliability for cloud infrastructure and services. You will also collaborate with cross-functional teams.",
+            "url": "https://www.uci-india.com/applicationForm.html",
+            "jobLocationType": "Hybrid",
+            "employmentType": "FULL_TIME",
+            "applicationInstructions": "Apply through our online application form.",
+            "validThrough": "2024-12-31T00:00:00"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "JobPosting",
+            "title": "Adobe Specialist",
+            "description": "Focus on utilizing Adobe Creative Suite to design and implement creative digital assets, including graphics, web designs, and multimedia, in line with project requirements and Efficient Solutions.",
+            "url": "https://www.uci-india.com/applicationForm.html",
+            "jobLocationType": "Hybrid",
+            "employmentType": "FULL_TIME",
+            "applicationInstructions": "Apply through our online application form.",
+            "validThrough": "2024-12-31T00:00:00"
+          }
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [
+      "Explore Exciting Career Opportunities with Us"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/careers.html",
+    "word_count": 237,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/careers.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/",
+      "https://htmlcodex.com"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordOur CareersHomeCareerOur CareersExplore Exciting Career Opportunities with UsJoin our dynamic and innovative team, where we empower professionals to thrive and grow. We offer exciting career opportunities in cutting-edge fields like Salesforce development, UI/UX design, cloud technologies, and creative solutions. If you're passionate about making an impact and building a meaningful career, explore our open positions and become part of our success story.Salesforce DeveloperAs a Salesforce Developer, you will design, develop, and maintain customized solutions within the Salesforce platform, ensuring seamless integration, scalability, and efficiency in delivering business-critical applications.Apply NowUI / UXThe UI/UX Designer will be responsible for creating intuitive, user-friendly interfaces, conducting user research, and designing prototypes that enhance user experiences and align with business goals.Apply NowMicrosoft AzureIn this role, you will manage and"
+}

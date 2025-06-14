@@ -1,0 +1,212 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/about.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 194,
+    "crawled_at": "2025-06-14T08:47:09.365587",
+    "h1_tags": [
+      "Empowering Innovation Through Diversity",
+      "Meet Our Expert Team Members"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 14,
+    "external_links_count": 1
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": "About UCI-INDIA",
+    "url": "https://www.uci-india.com/about.html",
+    "description": "Learn about UCI India, a women-led organization with over 24 years of expertise in providing cutting-edge IT solutions focusing on Salesforce, Oracle, and Microsoft. Empowering Innovation Through Diversity.",
+    "mainEntity": {
+      "@type": "Organization",
+      "name": "UCI-INDIA",
+      "alternateName": "UCI India",
+      "description": "UCI India, which stands for Unique Quality, is a dynamic, women-led organization with over 24 years of expertise in providing cutting-edge IT solutions. As an award-winning, minority-owned business, we focus on Salesforce, Oracle, Microsoft, and other technologies.",
+      "url": "https://www.uci-india.com",
+      "logo": "https://www.uci-india.com/img/logo.png",
+      "foundingDate": "1999",
+      "legalName": "UCI India",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Location Not Specified on Page, add if Known",
+        "addressRegion": "Region Not Specified on Page, add if Known",
+        "postalCode": "Postal Code Not Specified on Page, add if Known",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "Add Social Media and other profiles here if available"
+      ],
+      "knowsAbout": [
+        "Salesforce",
+        "Oracle",
+        "Microsoft",
+        "IT Solutions",
+        "Consulting",
+        "Software Development"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "IT Solutions and Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Salesforce Consulting and Development"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Oracle Consulting and Development"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Microsoft Consulting and Development (Azure)"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Custom Software Development"
+            }
+          }
+        ]
+      },
+      "team": [
+        {
+          "@type": "Person",
+          "name": "Akash Patel",
+          "jobTitle": "CEO",
+          "image": "https://www.uci-india.com/img/Akash.png"
+        },
+        {
+          "@type": "Person",
+          "name": "Nitin Bhatt",
+          "jobTitle": "Director",
+          "image": "https://www.uci-india.com/img/user.jpg"
+        },
+        {
+          "@type": "Person",
+          "name": "Tanay Parmar",
+          "jobTitle": "COO",
+          "image": "https://www.uci-india.com/img/Tanay.png",
+          "sameAs": "https://www.linkedin.com/in/tanay-parmar-4475056/"
+        },
+        {
+          "@type": "Person",
+          "name": "Ritesh Solanki",
+          "jobTitle": "Microsoft Azure Lead",
+          "image": "https://www.uci-india.com/img/user.jpg"
+        },
+        {
+          "@type": "Person",
+          "name": "Venkata Krishna Borra",
+          "jobTitle": "Sr. Salesforce Developer",
+          "image": "https://www.uci-india.com/img/user.jpg",
+          "sameAs": "https://www.linkedin.com/in/venkata-krishna-borra-3903bb248/"
+        },
+        {
+          "@type": "Person",
+          "name": "Mohammad Gangardi",
+          "jobTitle": "Sr. Salesforce Developer",
+          "image": "https://www.uci-india.com/img/Mohammad.png",
+          "sameAs": "https://www.linkedin.com/in/mohammad-gangardiwala/"
+        },
+        {
+          "@type": "Person",
+          "name": "Archana Reddy",
+          "jobTitle": "Sr. Business Analyst",
+          "image": "https://www.uci-india.com/img/Archna.png",
+          "sameAs": "https://www.linkedin.com/in/archanasg/"
+        },
+        {
+          "@type": "Person",
+          "name": "Viraj Gohil",
+          "jobTitle": "Salesforce Developer",
+          "image": "https://www.uci-india.com/img/VirajAboutUs.png",
+          "sameAs": "https://www.linkedin.com/in/viraj-gohil/"
+        },
+        {
+          "@type": "Person",
+          "name": "Vedavyas",
+          "jobTitle": "Team Member (Add Job Title Here)",
+          "image": "https://www.uci-india.com/img/Vedavyas.png"
+        }
+      ],
+      "award": "Award-Winning, Minority-Owned Business",
+      "keywords": [
+        "Salesforce Partner",
+        "Oracle Partner",
+        "Microsoft Partner",
+        "IT Solutions",
+        "Consulting",
+        "Software Development",
+        "Women-Led Business",
+        "Minority-Owned Business"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Years in Business",
+          "value": "24+"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Projects",
+          "value": "20+"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Clients Served",
+          "value": "10+"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Certifications",
+          "value": "8+"
+        }
+      ],
+      "slogan": "Empowering Innovation Through Diversity"
+    }
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [
+      "Empowering Innovation Through Diversity",
+      "Meet Our Expert Team Members"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/about.html",
+    "word_count": 194,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/about.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordAbout UsHomeAboutAbout Our CompanyEmpowering Innovation Through DiversityUCI India, which stands for Unique Quality, is a dynamic, women-led organization with over 24 years of expertise in providing cutting-edge IT solutions. As an award-winning, minority-owned business, we focus on Salesforce, Oracle, Microsoft, and other technologies.We believe in simplicity, diversity, and compliance, ensuring that we deliver exceptional service that meets and exceeds client expectations.Leading Salesforce Partner in Public SectorInnovative IT Solutions and ServicesTrusted Salesforce & IT InnovatorsCommitment to Sustainability and Ethical PracticesProven Track Record of SuccessContinuous Learning and Development12+Years in Business20+Projects10+Clients Served8+CertificationsOur TeamMeet Our Expert Team MembersAkash PatelCEONitin BhattDirectorTanay ParmarCOORitesh SolankiMicrosoft Azure LeadVenkata Krishna BorraSr. Salesforce DeveloperMohammad GangardiSr. Salesforce Develop"
+}

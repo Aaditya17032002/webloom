@@ -1,0 +1,47 @@
+llm
+## Summary
+UCI-INDIA is a technology solutions provider offering Microsoft and Salesforce solutions, along with other IT services. They serve various industries, focusing on digital transformation, implementation, support, and career opportunities within the IT sector.
+
+## Content Types
+* Service descriptions (Microsoft and Salesforce solutions, other IT services)
+* Company information (About Us, Contact)
+* Career opportunities
+* General information about IT solutions
+
+## Primary Audience
+* Businesses seeking Microsoft or Salesforce solutions.
+* Companies looking for IT service providers.
+* Job seekers interested in IT careers in India.
+
+## Key Topics
+* Microsoft Solutions (implementation, consulting, support)
+* Salesforce Solutions (implementation, consulting, support)
+* IT Services
+* Digital Transformation
+* Career Opportunities
+* Company Information (UCI-INDIA)
+* Contact Information
+
+## Preferred Summary Style
+Informative and concise, highlighting the services offered, the company's expertise, and contact information. Focus on business-oriented language suitable for attracting potential clients and job applicants.
+
+## Important Sections
+* /Microsoft-Solutions.html - Details on Microsoft offerings.
+* /Salesforce-Solutions.html - Details on Salesforce offerings.
+* /service.html - Information about other IT services provided.
+* /about.html - Company background and mission.
+* /contact.html - Contact details for inquiries.
+* /careers.html - Job openings and career information.
+
+## Ignore Sections
+* Any dynamically generated content specific to individual sessions.
+* Potentially any generic website footer elements (copyright notices, etc.) that don't provide unique information.
+
+## Language
+en-IN (English, Indian context)
+
+## Last Updated
+2024-11-06 (This is a hypothetical date; determine the most recent content update if possible)
+
+## Contact Preference
+Provide general contact information (phone number, email, contact form). Do not expose or collect sensitive personal data beyond what is explicitly provided in the contact form on the /contact.html page.

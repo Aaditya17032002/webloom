@@ -1,0 +1,160 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/Microsoft-Solutions.html",
+    "title": "UCI",
+    "description": "",
+    "word_count": 155,
+    "crawled_at": "2025-06-14T08:47:01.501939",
+    "h1_tags": [
+      "We Provide Best Services"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 15,
+    "external_links_count": 2
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Microsoft Solutions",
+    "description": "UCI INDIA provides expert Microsoft Solutions including Power Apps, Power Automate, Azure, SharePoint Online Development & Migrations, and Integration Services.",
+    "url": "https://www.uci-india.com/Microsoft-Solutions.html",
+    "provider": {
+      "@type": "Organization",
+      "name": "UCI INDIA",
+      "url": "https://www.uci-india.com",
+      "description": "UCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "803, Iscon Atria - 2, Besides, Gotri Rd, Gotri",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "postalCode": "390020",
+        "addressCountry": "IND"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+91-XXXXXXXXXX"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.uci-india.com/img/logo.png",
+        "width": "300",
+        "height": "60"
+      }
+    },
+    "serviceType": "Microsoft Solutions",
+    "keywords": [
+      "Power Apps",
+      "Power Automate",
+      "Azure",
+      "SharePoint Online Development",
+      "SharePoint Migrations",
+      "Integration Services",
+      "Microsoft Services",
+      "Childcare Permitting",
+      "Grants Management",
+      "Neighborhood Policing",
+      "Activity Watch",
+      "Legal Case Management",
+      "Asset Repository Management",
+      "Intuitive automation business logic",
+      "Enterprise ETL",
+      "Excel verifications",
+      "Cloud-native application enhancement",
+      "Desktop application enhancement",
+      "Virtual Agents integration",
+      "Self-service analytics",
+      "SQL Server Report Services",
+      "reporting inconsistencies",
+      "Power Apps Mobile Cross Platform",
+      "Efficient Code"
+    ],
+    "areaServed": "Global",
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Microsoft Services Offerings",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Power Apps",
+            "description": "Custom application development using Power Apps, including solutions for Childcare Permitting, Grants Management, Neighborhood Policing, Activity Watch, Legal Case Management Accelerator Data Model, and Asset Repository Management Service.",
+            "image": "https://www.uci-india.com/img/Power_Apps.png"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Power Automate",
+            "description": "Automation solutions using Power Automate for intuitive business logic, Enterprise-level ETL, repetitive Excel verifications, Cloud-native and Desktop application enhancement, and Virtual Agents integration.",
+            "image": "https://www.uci-india.com/img/Power_Automate.png"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Azure",
+            "description": "Azure cloud services for self-service analytics from Excel Newbie to SQL Server Report Services expert. Reduced reporting inconsistencies. Provide better analytics for decision making. Desktop development.",
+            "image": "https://www.uci-india.com/img/Azure.png"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Other Services",
+            "description": "Azure Cloud Implementations, SharePoint Online Development & Migrations, Power Apps Mobile Cross Platform, Integration Service and Efficient Code.",
+            "image": "https://www.uci-india.com/img/Our_Services.png"
+          }
+        }
+      ]
+    },
+    "additionalType": "https://en.wikipedia.org/wiki/Microsoft",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.uci-india.com/Microsoft-Solutions.html?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/",
+      "https://www.facebook.com/"
+    ]
+  },
+  "metadata": {
+    "title": "UCI",
+    "description": "",
+    "h1_tags": [
+      "We Provide Best Services"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/Microsoft-Solutions.html",
+    "word_count": 155,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/",
+      "https://htmlcodex.com"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordMicrosoft SolutionsHomeSolutionsOur Microsoft ServicesWe Provide Best ServicesOur commitment to excellence ensures that you receive innovative solutions tailored to your unique needs. Experience unmatched quality and support that drives your business forward.Power AppsChildcare Permitting and Grants ManagementNeighborhood Policing and Activity WatchLegal Case Management Accelerator Data ModelAsset Repository Management ServicePower AutomateIntuitive automation business logicHandle everything from Enterprise-level ETL to repetitive Excel verificationsCloud-native and Desktop application enhancementVirtual Agents integrationAzureSelf-service analytics from Excel Newbie to SQL Server Report Services expertReduced reporting inconsistenciesProvide better analytics for decision makingDesktop developmentOther ServicesAzure Cloud ImplementationsSharePoint Online Development & MigrationsPower Apps Mobile Cross PlatformIntegration Service and Efficient CodeUCI INDIAUCI"
+}

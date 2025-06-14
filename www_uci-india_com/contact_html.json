@@ -1,0 +1,127 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/contact.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 86,
+    "crawled_at": "2025-06-14T08:47:13.624085",
+    "h1_tags": [
+      "If you have any query please reach out to us"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 11,
+    "external_links_count": 2
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    "name": "Contact UCI-INDIA",
+    "url": "https://www.uci-india.com/contact.html",
+    "description": "Contact page for UCI-INDIA, a provider of IT solutions. Reach out to us with your queries.",
+    "mainEntity": {
+      "@type": "Organization",
+      "name": "UCI-INDIA",
+      "url": "https://www.uci-india.com",
+      "description": "UCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "803, Iscon Atria - 2, Gotri Rd, Gotri",
+        "addressLocality": "Vadodara",
+        "addressRegion": "Gujarat",
+        "postalCode": "390020",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+01234567890",
+        "email": "hr@uci-india.com",
+        "contactType": "customer service",
+        "areaServed": "IN",
+        "availableLanguage": [
+          "en"
+        ]
+      },
+      "sameAs": [
+        "https://www.uci-india.com"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.uci-india.com/img/logo.png",
+        "width": "200",
+        "height": "60"
+      },
+      "potentialAction": {
+        "@type": "CommunicateAction",
+        "name": "Contact Us",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://www.uci-india.com/contact.html",
+          "actionPlatform": [
+            "http://schema.org/DesktopWebPlatform",
+            "http://schema.org/MobileWebPlatform"
+          ]
+        }
+      }
+    },
+    "about": {
+      "@type": "Service",
+      "name": "IT Solutions",
+      "description": "Innovative IT solutions focusing on compliance, quality, and service.",
+      "provider": {
+        "@type": "Organization",
+        "name": "UCI-INDIA"
+      }
+    },
+    "hasPart": [
+      {
+        "@type": "WebPageElement",
+        "name": "Contact Form",
+        "cssSelector": "#contact-form"
+      },
+      {
+        "@type": "WebPageElement",
+        "name": "Address Section",
+        "cssSelector": "#address-section"
+      },
+      {
+        "@type": "WebPageElement",
+        "name": "Email Section",
+        "cssSelector": "#email-section"
+      },
+      {
+        "@type": "WebPageElement",
+        "name": "Phone Section",
+        "cssSelector": "#phone-section"
+      }
+    ]
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [
+      "If you have any query please reach out to us"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/contact.html",
+    "word_count": 86,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/contact.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/",
+      "https://htmlcodex.com"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordContact UsHomeContactContact UsIf you have any query please reach out to usYour NameYour EmailYour PhoneYour ProjectSubjectMessageSend MessageAddress803, Iscon Atria - 2, Gotri Rd, Gotri, Vadodara, Gujarat 390020Mail Ushr@uci-india.comTelephone(+012) 3456 7890UCI INDIAUCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.Useful LinksHomeAbout UsServicesCareersUseful LinksSalesforce SolutionsMicrosoft SolutionsContactAddress803, Iscon Atria - 2, Besides, Gotri Rd, Gotri, Vadodara, Gujarat 390020, INDIACopyright | 2024, UCI-INDIA |   All right reserved. Terms and Conditions"
+}
