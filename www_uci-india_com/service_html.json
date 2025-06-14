@@ -1,0 +1,193 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/service.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 198,
+    "crawled_at": "2025-06-14T08:22:56.537916",
+    "h1_tags": [
+      "We Provide Best Services"
+    ],
+    "h2_tags": [
+      "System Integration Services",
+      "Technology Services",
+      "Strategic Staffing Services"
+    ],
+    "internal_links_count": 11,
+    "external_links_count": 2
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "UCI-INDIA Services",
+    "description": "UCI-INDIA provides best-in-class System Integration, Technology, and Strategic Staffing Services. We offer innovative solutions tailored to unique business needs, ensuring unmatched quality and support to drive business forward.",
+    "url": "https://www.uci-india.com/service.html",
+    "provider": {
+      "@type": "Organization",
+      "name": "UCI-INDIA",
+      "url": "https://www.uci-india.com/"
+    },
+    "serviceType": "IT Services",
+    "keywords": [
+      "System Integration",
+      "Technology Services",
+      "Strategic Staffing",
+      "Application Modernization",
+      "Digital Strategy",
+      "Cloud Enablement",
+      "Customer Relationship Management",
+      "Mobility Services",
+      "Business Process Reengineering",
+      "COTS Implementation",
+      "SaaS Implementation",
+      "Enterprise Infrastructure Management",
+      "Data Center Engineering",
+      "Cloud Consulting",
+      "Cyber Security",
+      "Project Management",
+      "Quality Assurance",
+      "Robotic Process Automation",
+      "AI Services",
+      "Data Driven Services",
+      "IT Modernization",
+      "IT Contract Services",
+      "Professional Services",
+      "Direct Hire Services",
+      "Remote Support",
+      "Managed Team Services",
+      "Administrative Personnel Services"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "UCI-INDIA Service Offerings",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Service",
+            "name": "System Integration Services",
+            "description": "Specializing in low-risk system integration and application deployment, we partner with clients to deliver innovative technology solutions.",
+            "image": "https://www.uci-india.com/img/System_Integration%20(2).jpg",
+            "offeredBy": {
+              "@type": "Organization",
+              "name": "UCI-INDIA"
+            },
+            "serviceOutput": [
+              "Application Modernization",
+              "Digital Strategy and Implementation",
+              "Creative & UX Services",
+              "Cloud Enablement & Migration",
+              "Customer Relationship Management",
+              "Mobility Services",
+              "Business Process Reengineering",
+              "COTS & SaaS Implementation"
+            ]
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Service",
+            "name": "Technology Services",
+            "description": "Comprehensive Tech Services for Strategy, Application Support, Infrastructure, Cloud Solutions, and Innovative Digital Transformation.",
+            "image": "https://www.uci-india.com/img/Technology_Service.jpg",
+            "offeredBy": {
+              "@type": "Organization",
+              "name": "UCI-INDIA"
+            },
+            "serviceOutput": [
+              "Enterprise Infrastructure Management",
+              "Data Center Engineering/Optimization",
+              "Cloud Consulting Services",
+              "Cyber Security",
+              "Project Management/Quality Assurance",
+              "Robotic Process Automation (RPA)",
+              "AI & Data Driven Services",
+              "IT Modernization"
+            ]
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Service",
+            "name": "Strategic Staffing Services",
+            "description": "We provide expert IT consulting, staffing, and project management services to NYC , client needs with highly skilled consultants and seamless technology integration.",
+            "image": "https://www.uci-india.com/img/staffing.png",
+            "offeredBy": {
+              "@type": "Organization",
+              "name": "UCI-INDIA"
+            },
+            "serviceOutput": [
+              "IT Contract Hourly Services",
+              "Professional Services",
+              "Direct Hire Services",
+              "Remote Support Personnel",
+              "Managed Team Services",
+              "Administrative Personnel Services"
+            ]
+          }
+        }
+      ]
+    },
+    "areaServed": "New York City (NYC)",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Commitment",
+        "value": "Excellence"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Focus",
+        "value": "Innovative Solutions"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Benefit",
+        "value": "Business Growth"
+      }
+    ],
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.uci-india.com/service.html?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [
+      "We Provide Best Services"
+    ],
+    "h2_tags": [
+      "System Integration Services",
+      "Technology Services",
+      "Strategic Staffing Services"
+    ],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/service.html",
+    "word_count": 198,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/service.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/",
+      "https://htmlcodex.com"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordOur ServicesHomeServiceOur ServicesWe Provide Best ServicesOur commitment to excellence ensures that you receive innovative solutions tailored to your unique needs. Experience unmatched quality and support that drives your business forward.System Integration ServicesSpecializing in low-risk system integration and application deployment, we partner with clients to deliver innovative technology solutionsTechnology ServicesComprehensive Tech Services for Strategy, Application Support, Infrastructure, Cloud Solutions, and Innovative Digital Transformation.Strategic Staffing ServicesWe provide expert IT consulting, staffing, and project management services to NYC , client needs with highly skilled consultants and seamless technology integration.System Integration ServicesApplication ModernizationDigital Strategy and ImplementationCreative & UX ServicesCloud Enablement & MigrationCustomer Relationship ManagementMobility ServicesBusiness Process ReengineeringCOTS & "
+}

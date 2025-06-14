@@ -1,0 +1,171 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 184,
+    "crawled_at": "2025-06-14T08:23:02.757911",
+    "h1_tags": [],
+    "h2_tags": [
+      "Salesforce CRM Solutions",
+      "Salesforce Integration"
+    ],
+    "internal_links_count": 11,
+    "external_links_count": 1
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Salesforce CRM Solutions",
+    "description": "UCI-INDIA provides Salesforce CRM solutions, including development of industry-specific ISV solutions, lead and opportunity tracking, sales task automation, customizable dashboards, mobile CRM, and streamlined customer support with AI-driven tools. We also offer Salesforce Integration services to seamlessly integrate Salesforce with existing tools, including external system integration, custom workflow building, AppExchange solutions, platform customization, and Salesforce API integration.",
+    "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+    "provider": {
+      "@type": "Organization",
+      "name": "UCI-INDIA",
+      "url": "https://www.uci-india.com",
+      "description": "UCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "803,",
+        "addressLocality": "Mumbai",
+        "addressRegion": "MH",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/uci-india",
+        "https://www.facebook.com/uciindia"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.uci-india.com/img/uci-logo.png",
+        "width": 200,
+        "height": 60
+      }
+    },
+    "serviceType": "Salesforce CRM Solutions & Integration",
+    "keywords": [
+      "Salesforce CRM",
+      "Salesforce Integration",
+      "CRM Solutions",
+      "ISV Solutions",
+      "Lead Tracking",
+      "Opportunity Tracking",
+      "Sales Automation",
+      "Customer Support",
+      "AI-driven CRM",
+      "AppExchange",
+      "Salesforce API",
+      "Platform Customization"
+    ],
+    "areaServed": [
+      "India",
+      "Global"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Salesforce Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Salesforce CRM Development",
+            "description": "Development of value-added, industry-specific ISV solutions."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Salesforce Implementation",
+            "description": "Implementing and customizing Salesforce CRM for businesses."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Salesforce Integration",
+            "description": "Seamlessly integrate Salesforce with your existing tools and systems."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Salesforce Consulting",
+            "description": "Providing expert advice and guidance on Salesforce strategy and implementation."
+          }
+        }
+      ]
+    },
+    "offers": {
+      "@type": "Offer",
+      "name": "Salesforce CRM Solutions",
+      "description": "Customized Salesforce CRM development and integration services tailored to your business needs.",
+      "availability": "https://schema.org/Online",
+      "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+      "eligibleRegion": "IN"
+    },
+    "potentialAction": {
+      "@type": "ContactAction",
+      "name": "Request a Consultation",
+      "description": "Contact UCI-INDIA to discuss your Salesforce CRM needs and get a free consultation.",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://www.uci-india.com/contact.html",
+        "actionPlatform": [
+          "http://schema.org/DesktopWebPlatform",
+          "http://schema.org/MobileWebPlatform"
+        ]
+      }
+    },
+    "image": [
+      "https://www.uci-india.com/img/crmsolutions.webp",
+      "https://www.uci-india.com/img/integration.png"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "Salesforce"
+      },
+      {
+        "@type": "Thing",
+        "name": "CRM"
+      },
+      {
+        "@type": "Thing",
+        "name": "Cloud Computing"
+      }
+    ]
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [],
+    "h2_tags": [
+      "Salesforce CRM Solutions",
+      "Salesforce Integration"
+    ],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/Salesforce-Solutions.html",
+    "word_count": 184,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordSalesforce SolutionsHomeSolutionsSalesforce CRM SolutionsDevelopment of value-added, industry-specific ISV solutions, such as:Lead and opportunity tracking from initial contact to conversion.Automate sales tasks to improve efficiency and focus on relationships.Access real-time insights with customizable dashboards and reports.Mobile-friendly CRM to manage your business on the go.Streamline customer support with case management and AI-driven tools.For every initiative, we define and create the solution; work closely with Salesforce to define Go-To-Market strategySalesforce IntegrationSeamlessly integrate Salesforce with your existing tools to create a fully optimized business ecosystem.Key Integrate Salesforce with external systems for unified data management.Build custom workflows to automate and streamline processes.Expand capabilities with pre-built solutions from AppExchange.Platform Customization on SalesforceIntegrate external data sources using Salesfor"
+}

@@ -1,0 +1,35 @@
+## Summary
+UCI-INDIA is a company providing Salesforce solutions and services, including implementation, customization, and support, primarily to businesses seeking to optimize their CRM processes using the Salesforce platform.
+
+## Content Types
+Service descriptions (Salesforce implementation, customization, etc.)
+Solution overviews
+Company information
+
+## Primary Audience
+Businesses looking to implement, customize, or improve their Salesforce CRM systems. Sales managers, IT managers, and business owners are likely targets.
+
+## Key Topics
+Salesforce implementation
+Salesforce customization
+Salesforce services and support
+CRM solutions
+
+## Preferred Summary Style
+Concise and business-oriented, highlighting the benefits of UCI-INDIA's Salesforce solutions and their expertise. Focus on how they can help businesses improve their CRM processes and achieve their business goals.
+
+## Important Sections
+/Salesforce-Solutions.html - Details on specific Salesforce solutions offered.
+/service.html - Explanation of the different service offerings (implementation, customization, etc.).
+
+## Ignore Sections
+Any sections related to website cookies or privacy policies (unless specifically highlighting their compliance).
+
+## Language
+en-US, with business and technology terminology specific to Salesforce.
+
+## Last Updated
+2024-12-14
+
+## Contact Preference
+Include general contact information (phone number, email, contact form) for business inquiries. Avoid revealing specific employee details beyond publicly available information.
