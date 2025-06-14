@@ -1,0 +1,61 @@
+{
+  "website": {
+    "domain": "www.uci-india.com",
+    "crawl_date": "2025-06-14T09:04:38.669952",
+    "total_pages": 9,
+    "job_id": "6626dbfe-afe7-4e3d-9814-93443bd98abd"
+  },
+  "pages": [
+    {
+      "filename": "homepage.json",
+      "url": "https://www.uci-india.com/",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "contact_html.json",
+      "url": "https://www.uci-india.com/contact.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "about_html.json",
+      "url": "https://www.uci-india.com/about.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "Microsoft-Solutions_html.json",
+      "url": "https://www.uci-india.com/Microsoft-Solutions.html",
+      "title": "UCI"
+    },
+    {
+      "filename": "careers_html.json",
+      "url": "https://www.uci-india.com/careers.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "index_html.json",
+      "url": "https://www.uci-india.com/index.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "Salesforce-Solutions_html.json",
+      "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "service_html.json",
+      "url": "https://www.uci-india.com/service.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "applicationForm_html.json",
+      "url": "https://www.uci-india.com/applicationForm.html",
+      "title": "UCI-INDIA"
+    }
+  ],
+  "cdn_info": {
+    "base_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_uci-india_com",
+    "loader_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_uci-india_com/schema-loader.js",
+    "minified_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_uci-india_com/schema-loader.min.js",
+    "llm_txt_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_uci-india_com/llm.txt"
+  }
+}

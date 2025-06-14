@@ -1,0 +1,44 @@
+## Summary
+UCI-INDIA is an IT solutions and services company providing Microsoft and Salesforce solutions, along with general IT services to businesses. They offer services, support career opportunities, and information about their company.
+
+## Content Types
+* Company Information (About Us)
+* Service Descriptions (Microsoft Solutions, Salesforce Solutions, General IT Services)
+* Contact Information
+* Career Opportunities
+* Basic informational pages (index, home)
+
+## Primary Audience
+Businesses seeking IT solutions and services, potential employees, and individuals looking for contact information.
+
+## Key Topics
+* Microsoft Solutions (likely Dynamics 365, Azure, etc.)
+* Salesforce Solutions (likely Sales Cloud, Service Cloud, etc.)
+* IT Services (general, unspecified details)
+* Company Profile
+* Career Openings
+
+## Preferred Summary Style
+Informative and business-oriented, focusing on services offered and benefits to potential clients. Use professional language.
+
+## Important Sections
+* /Microsoft-Solutions.html - Details about Microsoft solutions offered.
+* /Salesforce-Solutions.html - Details about Salesforce solutions offered.
+* /service.html - Overview of IT services provided.
+* /about.html - Company information and background.
+* /careers.html - Job openings and career information.
+* /contact.html - Contact information and form.
+
+## Ignore Sections
+* Any automatically generated content (e.g., website template elements)
+* Standard navigation elements that repeat on every page
+* Boilerplate legal disclaimers
+
+## Language
+en-US with IT industry terminology
+
+## Last Updated
+(Dynamically insert the current date - e.g., 2024-12-15)
+
+## Contact Preference
+Provide general contact information for business inquiries and career opportunities. Do not scrape or expose any submitted form data.

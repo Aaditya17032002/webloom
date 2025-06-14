@@ -1,0 +1,234 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/careers.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 237,
+    "crawled_at": "2025-06-14T09:04:18.916245",
+    "h1_tags": [
+      "Explore Exciting Career Opportunities with Us"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 15,
+    "external_links_count": 2
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "UCI-INDIA",
+        "url": "https://www.uci-india.com/",
+        "description": "UCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "803, Iscon Atria - 2, Besides, Gotri Rd, Gotri",
+          "addressLocality": "Vadodara",
+          "addressRegion": "Gujarat",
+          "postalCode": "390020",
+          "addressCountry": "INDIA"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/company/uci-india/",
+          "https://www.facebook.com/uciindia/"
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.uci-india.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Careers",
+            "item": "https://www.uci-india.com/careers.html"
+          }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.uci-india.com/careers.html",
+        "name": "UCI-INDIA Careers",
+        "description": "Explore exciting career opportunities with UCI-INDIA in Salesforce development, UI/UX design, cloud technologies, and creative solutions.",
+        "datePublished": "2024-01-01T00:00:00+00:00",
+        "dateModified": "2024-10-27T00:00:00+00:00",
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://www.uci-india.com/images/uci-india-logo.png",
+          "caption": "UCI-INDIA Logo"
+        },
+        "mainEntity": {
+          "@id": "#organization"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.uci-india.com/careers.html?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "JobPosting",
+        "title": "Salesforce Developer",
+        "description": "As a Salesforce Developer, you will design, develop, and maintain customized solutions within the Salesforce platform, ensuring seamless integration, scalability, and efficiency in delivering business-critical applications.",
+        "hiringOrganization": {
+          "@type": "Organization",
+          "name": "UCI-INDIA",
+          "url": "https://www.uci-india.com/"
+        },
+        "jobLocation": {
+          "@type": "Place",
+          "name": "Vadodara, Gujarat, India"
+        },
+        "url": "https://www.uci-india.com/careers.html",
+        "applicationContact": {
+          "@type": "ContactPoint",
+          "email": "hr@uci-india.com"
+        },
+        "baseSalary": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "value": {
+            "@type": "QuantitativeValue",
+            "minValue": 300000,
+            "maxValue": 800000,
+            "unitText": "YEAR"
+          }
+        },
+        "employmentType": "FULL_TIME",
+        "validThrough": "2025-12-31T00:00:00+00:00"
+      },
+      {
+        "@type": "JobPosting",
+        "title": "UI / UX Designer",
+        "description": "The UI/UX Designer will be responsible for creating intuitive, user-friendly interfaces, conducting user research, and designing prototypes that enhance user experiences and align with business goals.",
+        "hiringOrganization": {
+          "@type": "Organization",
+          "name": "UCI-INDIA",
+          "url": "https://www.uci-india.com/"
+        },
+        "jobLocation": {
+          "@type": "Place",
+          "name": "Vadodara, Gujarat, India"
+        },
+        "url": "https://www.uci-india.com/careers.html",
+        "applicationContact": {
+          "@type": "ContactPoint",
+          "email": "hr@uci-india.com"
+        },
+        "baseSalary": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "value": {
+            "@type": "QuantitativeValue",
+            "minValue": 300000,
+            "maxValue": 700000,
+            "unitText": "YEAR"
+          }
+        },
+        "employmentType": "FULL_TIME",
+        "validThrough": "2025-12-31T00:00:00+00:00"
+      },
+      {
+        "@type": "JobPosting",
+        "title": "Microsoft Azure Specialist",
+        "description": "In this role, you will manage and deploy scalable cloud solutions in Microsoft Azure, ensuring optimal performance, security, and reliability for cloud infrastructure and services. You will also collaborate with cross-functional teams.",
+        "hiringOrganization": {
+          "@type": "Organization",
+          "name": "UCI-INDIA",
+          "url": "https://www.uci-india.com/"
+        },
+        "jobLocation": {
+          "@type": "Place",
+          "name": "Vadodara, Gujarat, India"
+        },
+        "url": "https://www.uci-india.com/careers.html",
+        "applicationContact": {
+          "@type": "ContactPoint",
+          "email": "hr@uci-india.com"
+        },
+        "baseSalary": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "value": {
+            "@type": "QuantitativeValue",
+            "minValue": 400000,
+            "maxValue": 900000,
+            "unitText": "YEAR"
+          }
+        },
+        "employmentType": "FULL_TIME",
+        "validThrough": "2025-12-31T00:00:00+00:00"
+      },
+      {
+        "@type": "JobPosting",
+        "title": "Adobe Specialist",
+        "description": "The Adobe Specialist will focus on utilizing Adobe Creative Suite to design and implement creative digital assets, including graphics, web designs, and multimedia, in line with project requirements and Efficient Solutions.",
+        "hiringOrganization": {
+          "@type": "Organization",
+          "name": "UCI-INDIA",
+          "url": "https://www.uci-india.com/"
+        },
+        "jobLocation": {
+          "@type": "Place",
+          "name": "Vadodara, Gujarat, India"
+        },
+        "url": "https://www.uci-india.com/careers.html",
+        "applicationContact": {
+          "@type": "ContactPoint",
+          "email": "hr@uci-india.com"
+        },
+        "baseSalary": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "value": {
+            "@type": "QuantitativeValue",
+            "minValue": 300000,
+            "maxValue": 700000,
+            "unitText": "YEAR"
+          }
+        },
+        "employmentType": "FULL_TIME",
+        "validThrough": "2025-12-31T00:00:00+00:00"
+      }
+    ],
+    "@type": "Service"
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [
+      "Explore Exciting Career Opportunities with Us"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/careers.html",
+    "word_count": 237,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/careers.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/",
+      "https://htmlcodex.com"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordOur CareersHomeCareerOur CareersExplore Exciting Career Opportunities with UsJoin our dynamic and innovative team, where we empower professionals to thrive and grow. We offer exciting career opportunities in cutting-edge fields like Salesforce development, UI/UX design, cloud technologies, and creative solutions. If you're passionate about making an impact and building a meaningful career, explore our open positions and become part of our success story.Salesforce DeveloperAs a Salesforce Developer, you will design, develop, and maintain customized solutions within the Salesforce platform, ensuring seamless integration, scalability, and efficiency in delivering business-critical applications.Apply NowUI / UXThe UI/UX Designer will be responsible for creating intuitive, user-friendly interfaces, conducting user research, and designing prototypes that enhance user experiences and align with business goals.Apply NowMicrosoft AzureIn this role, you will manage and"
+}
