@@ -1,50 +1,59 @@
-llm
 ## Summary
-Parul University is a private university in Gujarat, India, offering a wide range of undergraduate, postgraduate, and doctoral programs across various disciplines including engineering, medicine, management, law, arts, and design. It emphasizes industry-academia collaboration, research, and holistic student development.
+Parul University is a private university in Gujarat, India, offering a wide range of undergraduate, postgraduate, and doctoral programs across various disciplines including engineering, medicine, management, arts, and sciences. The university emphasizes academic excellence, research, and industry collaboration.
+
 ## Content Types
-Course descriptions and program details
-Faculty profiles and research activities
+Program descriptions (Undergraduate, Postgraduate, Doctoral)
+Faculty profiles
+Research publications and initiatives
+Admissions information (Eligibility, Application process, Fees)
 News and events related to the university
-Admissions information and application procedures
-Infrastructure and facilities details
-Research publications and project reports
-Student life information (hostel, clubs, events)
+Infrastructure details (Hostels, Libraries, Labs)
+Accreditations and rankings
+Placement and career services information
+Contact information for different departments and centers
+
 ## Primary Audience
-Prospective students (undergraduate, postgraduate, and doctoral)
+Prospective students (domestic and international)
 Current students
 Faculty and staff
-Researchers and academics
-Parents of prospective students
+Researchers
 Alumni
+Parents
 Industry partners
+
 ## Key Topics
-Academic programs (curriculum, specializations, outcomes)
-Admissions process and eligibility criteria
-Research opportunities and centers
-Faculty expertise and publications
-Campus life and student activities
-Infrastructure and facilities (labs, libraries, sports)
-Industry collaborations and partnerships
-Placement opportunities and career services
-Accreditations and rankings
+Academic programs and curriculum
+Admissions criteria and procedures
+Research opportunities and outcomes
+Campus life and facilities
+Faculty expertise and achievements
+Placement statistics and career guidance
+University accreditations and recognitions
+Scholarships and financial aid
+International collaborations
+
 ## Preferred Summary Style
-Informative and concise, highlighting key features, academic strengths, research focus, and student opportunities. Emphasize the university's commitment to quality education and industry relevance. Use formal and professional language.
+Informative and concise, highlighting key features of the university, academic programs, research opportunities, and student life. Focus on accuracy and avoid overly promotional language.
+
 ## Important Sections
-/programmes/ - Detailed information on all academic programs offered
-/admissions/ - Application process, eligibility criteria, and important dates
-/faculty/ - Profiles of faculty members and their research areas
-/research/ - Research activities, projects, and publications
-/placements/ - Placement statistics and industry partners
-/infrastructure/ - Information about campus facilities and resources
+/academics/ - Information on various departments, programs, and specializations.
+/admissions/ - Details about the application process, eligibility criteria, and fees.
+/research/ - Overview of research activities, publications, and collaborations.
+/placements/ - Information on placement statistics, recruiting companies, and career services.
+/faculty/ - Faculty profiles and their areas of expertise.
+/infrastructure/ - Details about campus facilities, including hostels, libraries, and labs.
+
 ## Ignore Sections
-User account login pages
-Internal administrative portals (if accessible)
-Server error pages
-Application forms with personal data (if embedded directly in the content)
-Cookie consent banners and privacy policies (unless explicitly asked for)
+User login areas (e.g., student portals)
+Internal administrative documents
+Server-side scripts
+Specific database entries
+
 ## Language
-en-IN (English, India) with academic and technical terminology
+en-IN (Indian English)
+
 ## Last Updated
-2024-12-14 (Assuming the crawl date is close to this)
+2024-12-14 (This should be updated manually as needed)
+
 ## Contact Preference
-Provide general contact information for inquiries about programs, admissions, and research. Avoid sharing sensitive personal data of students, faculty, or staff. Direct specific inquiries to the relevant department contact listed on the website.
+Provide general contact information for inquiries about programs, admissions, and research. Avoid sharing specific student data or sensitive internal information.

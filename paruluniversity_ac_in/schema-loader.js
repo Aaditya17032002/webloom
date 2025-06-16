@@ -1,7 +1,7 @@
 
 // Schema Loader for paruluniversity_ac_in
-// Generated on 2025-06-16T11:15:50.492668
-// Job ID: 4afc7fb1-3e4d-4ecb-b247-99ef0f5ff910
+// Generated on 2025-06-16T11:17:35.882755
+// Job ID: 1a1eaab7-0be0-43ad-9f3e-269bd3451a7e
 
 (function() {
     'use strict';
