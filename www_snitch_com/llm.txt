@@ -1,0 +1,41 @@
+## Summary
+SNITCH is a leading Indian online fashion retailer specializing in men's clothing, offering a wide range of premium shirts, jeans, and other apparel designed for modern styles and everyday essentials.
+
+## Content Types
+Product listings with descriptions and images
+New arrival announcements
+Account management pages
+Shopping cart/checkout functionality
+
+## Primary Audience
+Men in India interested in purchasing fashionable clothing online.
+
+## Key Topics
+Men's fashion
+Online shopping
+Shirts
+Jeans
+New Arrivals
+Indian fashion trends
+
+## Preferred Summary Style
+Concise and product-focused, highlighting new arrivals and key product categories.
+
+## Important Sections
+/shop/ - Main product catalog
+/men-new-arrivals/buy - New arrivals section for men
+/account - User account management
+/checkout/cart - Shopping cart and checkout process
+
+## Ignore Sections
+Personal account information beyond name and contact details
+Cookie notices and privacy policies (unless specifically related to AI interaction)
+
+## Language
+en-IN (English with Indian context)
+
+## Last Updated
+2024-10-26 (Assuming today's date as the crawl date)
+
+## Contact Preference
+Direct users to product pages and customer service for specific product inquiries. Do not share personal user information.

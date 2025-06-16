@@ -1,0 +1,38 @@
+{
+  "page_info": {
+    "url": "https://www.snitch.com/checkout/cart",
+    "title": "Cart - SNITCH",
+    "description": "Discover SNITCH - India's leading online destination for men's fashion. Shop premium shirts, jeans, and more, crafted for the modern man. Redefine your style today!",
+    "word_count": 1,
+    "crawled_at": "2025-06-16T11:14:12.520293",
+    "h1_tags": [
+      "Cart"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 0,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Cart - SNITCH",
+    "url": "https://www.snitch.com/checkout/cart",
+    "description": "Discover SNITCH - India's leading online destination for men's fashion. Shop premium shirts, jeans, and more, crafted for the modern man. Redefine your style today!",
+    "dateModified": "2025-06-16T11:14:12.520167",
+    "wordCount": 1
+  },
+  "metadata": {
+    "title": "Cart - SNITCH",
+    "description": "Discover SNITCH - India's leading online destination for men's fashion. Shop premium shirts, jeans, and more, crafted for the modern man. Redefine your style today!",
+    "h1_tags": [
+      "Cart"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.snitch.com/checkout/cart",
+    "word_count": 1,
+    "internal_links": [],
+    "external_links": []
+  },
+  "content_preview": "Cart"
+}

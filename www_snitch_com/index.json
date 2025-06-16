@@ -1,0 +1,41 @@
+{
+  "website": {
+    "domain": "www.snitch.com",
+    "crawl_date": "2025-06-16T11:14:14.579343",
+    "total_pages": 5,
+    "job_id": "70f5826a-dcc9-4f0c-9a83-8185f57145d1"
+  },
+  "pages": [
+    {
+      "filename": "homepage.json",
+      "url": "https://www.snitch.com/",
+      "title": "Buy Fashion for Men online in India - SNITCH"
+    },
+    {
+      "filename": "account.json",
+      "url": "https://www.snitch.com/account",
+      "title": "Account - SNITCH"
+    },
+    {
+      "filename": "shop.json",
+      "url": "https://www.snitch.com/shop",
+      "title": "Shop - SNITCH"
+    },
+    {
+      "filename": "men-new-arrivals_buy.json",
+      "url": "https://www.snitch.com/men-new-arrivals/buy",
+      "title": "Buy New arrivals for men online in India"
+    },
+    {
+      "filename": "checkout_cart.json",
+      "url": "https://www.snitch.com/checkout/cart",
+      "title": "Cart - SNITCH"
+    }
+  ],
+  "cdn_info": {
+    "base_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_snitch_com",
+    "loader_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_snitch_com/schema-loader.js",
+    "minified_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_snitch_com/schema-loader.min.js",
+    "llm_txt_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_snitch_com/llm.txt"
+  }
+}
