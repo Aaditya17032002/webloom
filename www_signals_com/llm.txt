@@ -1,0 +1,34 @@
+llm.txt
+## Summary
+Signals.com is an online retailer specializing in unique and thoughtful gifts, women's clothing, accessories, jewelry, and home decor items targeted towards a mature audience.
+
+## Content Types
+Product listings with descriptions and images
+Category pages showcasing various product types
+Shopping cart and checkout functionalities
+
+## Primary Audience
+Women aged 40+, individuals seeking unique and thoughtful gifts for friends and family.
+## Key Topics
+Women's Clothing (tops, tunics, etc.)
+Accessories (general)
+Unique and thoughtful gifts
+Home Decor
+Shopping Cart Functionality
+## Preferred Summary Style
+Descriptive and engaging, highlighting the unique and thoughtful nature of the products.
+## Important Sections
+/ShopCategory.aspx - Product category pages
+/itemdy00.aspx - Individual product pages
+/ViewCart.aspx - Shopping cart page
+
+## Ignore Sections
+Customer account login/registration pages (if they exist but weren't crawled)
+Personalized recommendations (if any)
+Detailed shipping and return policies (unless critical for understanding the product offerings)
+## Language
+en-US
+## Last Updated
+2024-12-14
+## Contact Preference
+Include customer service information for product inquiries; avoid accessing or providing information related to user accounts or order history.

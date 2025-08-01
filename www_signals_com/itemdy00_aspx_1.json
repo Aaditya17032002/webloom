@@ -1,0 +1,156 @@
+{
+  "page_info": {
+    "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+    "title": "\n\tTextured Button Tunic - Quirky & Thoughtful Gifts for All Ages\n",
+    "description": "Textured Button Tunic - Shop Signals for thoughtful gifts for friends, family or yourself—quirky gifts, clothing, jewelry, décor & more!",
+    "word_count": 357,
+    "crawled_at": "2025-08-01T18:43:05.619163",
+    "h1_tags": [
+      "Textured Button Tunic"
+    ],
+    "h2_tags": [
+      "COLOR:",
+      "",
+      "SIZE:",
+      "Item Added to Cart",
+      "Overview",
+      "Item Details",
+      "",
+      "",
+      ""
+    ],
+    "internal_links_count": 11,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Product",
+        "name": "Textured Button Tunic",
+        "description": "Textured Button Tunic - Shop Signals for thoughtful gifts for friends, family or yourself—quirky gifts, clothing, jewelry, décor & more!",
+        "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+        "image": "https://lppool.catalogsites.net/lf?source=url[file:itemimages/SL/HiRes/L25510H.tif]&sink=format[jpg],quality[70]",
+        "sku": "L25510",
+        "brand": {
+          "@type": "Organization",
+          "name": "Signals"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+          "priceCurrency": "USD",
+          "price": "54.95",
+          "availability": "https://schema.org/InStock"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Material",
+            "value": "Poly/spandex knit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Sleeve Length",
+            "value": "Long Sleeve"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Neckline",
+            "value": "Cowl Neckline"
+          }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+        "name": "Textured Button Tunic - Quirky & Thoughtful Gifts for All Ages",
+        "description": "Textured Button Tunic - Shop Signals for thoughtful gifts for friends, family or yourself—quirky gifts, clothing, jewelry, décor & more!",
+        "dateModified": "2023-10-27",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.signals.com/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.signals.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Clothing",
+              "item": "https://www.signals.com/category/clothing"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Tops",
+              "item": "https://www.signals.com/category/clothing/tops"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Textured Button Tunic"
+            }
+          ]
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Signals",
+        "url": "https://www.signals.com/",
+        "logo": "https://www.signals.com/static/images/signals-logo.png",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+1-800-669-9696",
+          "contactType": "customer service",
+          "areaServed": "US",
+          "availableLanguage": "en"
+        }
+      }
+    ],
+    "@type": "Product"
+  },
+  "metadata": {
+    "title": "\n\tTextured Button Tunic - Quirky & Thoughtful Gifts for All Ages\n",
+    "description": "Textured Button Tunic - Shop Signals for thoughtful gifts for friends, family or yourself—quirky gifts, clothing, jewelry, décor & more!",
+    "h1_tags": [
+      "Textured Button Tunic"
+    ],
+    "h2_tags": [
+      "COLOR:",
+      "",
+      "SIZE:",
+      "Item Added to Cart",
+      "Overview",
+      "Item Details",
+      "",
+      "",
+      ""
+    ],
+    "keywords": "quirky, gifts, thoughtful, personalized, home décor, clothing, jewelry, books, games, fun, puzzles, holiday, seasonal",
+    "canonical_url": "https://www.signals.com/?T1=L25510",
+    "word_count": 357,
+    "internal_links": [
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S#maincontent",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S#pageTop",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+      "https://www.signals.com/GiftCardContestRules.aspx",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S"
+    ],
+    "external_links": []
+  },
+  "content_preview": "Skip to Main ContentColor: Activating this element will cause content on the page to be updatedColor:Click to Enlarge | Mouseover to Zoom/PanTextured Button TunicItem #Price Range$54.95to$59.95Original PriceCurrent PriceCOLOR:SIZE:Size GuideCOLOR and SIZE Selection RequiredItem Added to CartContinue ShoppingView Cart & CheckoutOverviewThis poly/spandex knit top is every bit as soft as chenille but more durable for everyday wearThe textured pattern, cowl neckline, and three-button front makes it eye-catchingLong sleeve, High-Low hemMachine washImportedS (4-6), M (8-10), L (12-14), XL (16), 1X (18), 2X (18W-20W), 3X (22W)M hangs 26\" in front, 29\" backItem DetailsSoft and stylish? Yes, please. This poly/spandex knit top is every bit as soft as chenille but more durable for everyday wear. The textured pattern, cowl neckline, and three-button front makes it eye-catching. Long sleeve, High-Low hem. Machine wash. Imported. S (4-6), M (8-10), L (12-14), XL (16), 1X (18), 2X (18W-20W), 3X (22W)"
+}

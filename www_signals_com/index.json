@@ -1,0 +1,41 @@
+{
+  "website": {
+    "domain": "www.signals.com",
+    "crawl_date": "2025-08-01T18:43:07.921768",
+    "total_pages": 5,
+    "job_id": "08623ea0-4beb-413c-adea-0ed027326d19"
+  },
+  "pages": [
+    {
+      "filename": "ShopCategory_aspx.json",
+      "url": "https://www.signals.com/ShopCategory.aspx?ID=841,6788",
+      "title": "\n\tAll Women's Clothing & Thoughtful Gifts for All Ages - Shop All Women's Clothing Today\n"
+    },
+    {
+      "filename": "itemdy00_aspx.json",
+      "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+      "title": "\n\tMoonlit Embossed Velvet Top - Quirky & Thoughtful Gifts for All Ages\n"
+    },
+    {
+      "filename": "ShopCategory_aspx_1.json",
+      "url": "https://www.signals.com/ShopCategory.aspx?ID=848,6813",
+      "title": "\n\tAll Accessories & Thoughtful Gifts for All Ages - Shop All Accessories Today\n"
+    },
+    {
+      "filename": "ViewCart_aspx.json",
+      "url": "https://www.signals.com/ViewCart.aspx",
+      "title": "\n\tView Cart - Uniquely Thoughtful Gifts, Clothing, Jewelry, Accessories, Home Décor, and More!\n"
+    },
+    {
+      "filename": "itemdy00_aspx_1.json",
+      "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=L25510+IV+S",
+      "title": "\n\tTextured Button Tunic - Quirky & Thoughtful Gifts for All Ages\n"
+    }
+  ],
+  "cdn_info": {
+    "base_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_signals_com",
+    "loader_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_signals_com/schema-loader.js",
+    "minified_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_signals_com/schema-loader.min.js",
+    "llm_txt_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_signals_com/llm.txt"
+  }
+}

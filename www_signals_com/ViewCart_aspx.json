@@ -1,0 +1,125 @@
+{
+  "page_info": {
+    "url": "https://www.signals.com/ViewCart.aspx",
+    "title": "\n\tView Cart - Uniquely Thoughtful Gifts, Clothing, Jewelry, Accessories, Home Décor, and More!\n",
+    "description": "A Diverse Range of Unique Gifts for All Ages. One-of-a-kind clothing, jewelry, accessories, home décor, books & more!",
+    "word_count": 360,
+    "crawled_at": "2025-08-01T18:43:00.565187",
+    "h1_tags": [
+      "Shopping Cart"
+    ],
+    "h2_tags": [
+      "Cart Summary",
+      "",
+      "",
+      ""
+    ],
+    "internal_links_count": 10,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Signals",
+        "url": "https://www.signals.com/",
+        "logo": "https://www.signals.com/Images/signals-logo.png",
+        "description": "Uniquely Thoughtful Gifts, Clothing, Jewelry, Accessories, Home Décor, and More!",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "108 Washington Street",
+          "addressLocality": "Bluffton",
+          "addressRegion": "OH",
+          "postalCode": "45817",
+          "addressCountry": "US"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+1-800-669-9696",
+          "contactType": "customer service",
+          "areaServed": "US",
+          "availableLanguage": "en"
+        },
+        "sameAs": [
+          "https://www.facebook.com/SignalsGifts/",
+          "https://twitter.com/SignalsGifts",
+          "https://www.pinterest.com/signalsgifts/"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.signals.com/ViewCart.aspx",
+        "name": "View Cart - Uniquely Thoughtful Gifts, Clothing, Jewelry, Accessories, Home Décor, and More!",
+        "description": "A Diverse Range of Unique Gifts for All Ages. One-of-a-kind clothing, jewelry, accessories, home décor, books & more!",
+        "dateModified": "2023-10-27T12:00:00-05:00",
+        "datePublished": "2023-10-27T12:00:00-05:00",
+        "inLanguage": "en-US",
+        "potentialAction": {
+          "@type": "ViewAction",
+          "target": "https://www.signals.com/ViewCart.aspx"
+        },
+        "mainEntity": {
+          "@id": "#mainEntity"
+        },
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.signals.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "View Cart",
+              "item": "https://www.signals.com/ViewCart.aspx"
+            }
+          ]
+        },
+        "publisher": {
+          "@id": "@graph.0"
+        }
+      },
+      {
+        "@type": "WebPageElement",
+        "@id": "#mainEntity",
+        "name": "Shopping Cart",
+        "description": "Shopping cart page for Signals.com, displaying items selected for purchase."
+      }
+    ],
+    "@type": "Product"
+  },
+  "metadata": {
+    "title": "\n\tView Cart - Uniquely Thoughtful Gifts, Clothing, Jewelry, Accessories, Home Décor, and More!\n",
+    "description": "A Diverse Range of Unique Gifts for All Ages. One-of-a-kind clothing, jewelry, accessories, home décor, books & more!",
+    "h1_tags": [
+      "Shopping Cart"
+    ],
+    "h2_tags": [
+      "Cart Summary",
+      "",
+      "",
+      ""
+    ],
+    "keywords": "quirky, gifts, thoughtful, personalized, home décor, clothing, jewelry, books, games, fun, puzzles, holiday, seasonal",
+    "canonical_url": "https://www.signals.com/ViewCart.aspx",
+    "word_count": 360,
+    "internal_links": [
+      "https://www.signals.com/ViewCart.aspx#maincontent",
+      "https://www.signals.com/ViewCart.aspx#pageTop",
+      "https://www.signals.com/esw-checkout",
+      "https://www.signals.com/GiftCardContestRules.aspx",
+      "https://www.signals.com/ViewCart.aspx",
+      "https://www.signals.com/ViewCart.aspx",
+      "https://www.signals.com/ViewCart.aspx",
+      "https://www.signals.com/ViewCart.aspx",
+      "https://www.signals.com/ViewCart.aspx",
+      "https://www.signals.com/ViewCart.aspx"
+    ],
+    "external_links": []
+  },
+  "content_preview": "Skip to Main ContentShopping CartSorry...There are no items in your cart.Please continue shopping.Cart SummaryMerchandise Total$0.00APPLYApplicable shipping and tax will be calculated at checkout.CheckoutCheckoutSatisfaction GuaranteedShop worry-free with our unconditional guarantee on every purchase.GuaranteeGuaranteeWe want you to be pleased with your purchase. If for any reason you're not satisfied\nwith your product, simply return it for a prompt and courteous exchange, credit,\nor refund of the merchandise purchase price. Please note, personalized items may not \nbe returned unless defective and all products are subject to price change and availability. \nWe are not responsible for typographical or system errors. See Customer Service page for additional information.Easy ReturnsEasy ReturnsAll purchases are backed by our 100% satisfaction guarantee. \nTo exchange or return your purchase, simply complete the form on the \nback of your packing invoice and return it with the merchandise. Se"
+}

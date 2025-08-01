@@ -1,0 +1,141 @@
+{
+  "page_info": {
+    "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+    "title": "\n\tMoonlit Embossed Velvet Top - Quirky & Thoughtful Gifts for All Ages\n",
+    "description": "Moonlit Embossed Velvet Top - Shop Signals for thoughtful gifts for friends, family or yourself—quirky gifts, clothing, jewelry, décor & more!",
+    "word_count": 332,
+    "crawled_at": "2025-08-01T18:42:52.707203",
+    "h1_tags": [
+      "Moonlit Embossed Velvet Top"
+    ],
+    "h2_tags": [
+      "COLOR:Mauve",
+      "",
+      "SIZE:",
+      "Item Added to Cart",
+      "Overview",
+      "Item Details",
+      "",
+      "",
+      ""
+    ],
+    "internal_links_count": 13,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org/",
+    "@graph": [
+      {
+        "@type": "Product",
+        "name": "Moonlit Embossed Velvet Top",
+        "description": "Moonlit Embossed Velvet Top - Shop Signals for thoughtful gifts for friends, family or yourself—quirky gifts, clothing, jewelry, décor & more!",
+        "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+        "image": "https://lppool.catalogsites.net/lf?source=url[file:itemimages/SL/HiRes/PE4017H.tif]&sink=format[jpg],quality[70]",
+        "sku": "PE4017",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "price": "69.95",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS"
+        },
+        "brand": {
+          "@type": "Organization",
+          "name": "Signals"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+        "name": "Moonlit Embossed Velvet Top - Quirky & Thoughtful Gifts for All Ages",
+        "description": "Moonlit Embossed Velvet Top - Shop Signals for thoughtful gifts for friends, family or yourself—quirky gifts, clothing, jewelry, décor & more!",
+        "dateModified": "2023-10-27T12:00:00-00:00",
+        "datePublished": "2023-10-26T12:00:00-00:00",
+        "primaryImageOfPage": {
+          "@id": "#product"
+        },
+        "breadcrumb": {
+          "@id": "#breadcrumb"
+        },
+        "mainEntity": {
+          "@id": "#product"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.signals.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Clothing",
+            "item": "https://www.signals.com/clothing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tops",
+            "item": "https://www.signals.com/clothing/tops"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Moonlit Embossed Velvet Top",
+            "item": "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS"
+          }
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Signals",
+        "url": "https://www.signals.com/",
+        "logo": "https://www.signals.com/images/logo.png"
+      }
+    ],
+    "@type": "Product"
+  },
+  "metadata": {
+    "title": "\n\tMoonlit Embossed Velvet Top - Quirky & Thoughtful Gifts for All Ages\n",
+    "description": "Moonlit Embossed Velvet Top - Shop Signals for thoughtful gifts for friends, family or yourself—quirky gifts, clothing, jewelry, décor & more!",
+    "h1_tags": [
+      "Moonlit Embossed Velvet Top"
+    ],
+    "h2_tags": [
+      "COLOR:Mauve",
+      "",
+      "SIZE:",
+      "Item Added to Cart",
+      "Overview",
+      "Item Details",
+      "",
+      "",
+      ""
+    ],
+    "keywords": "quirky, gifts, thoughtful, personalized, home décor, clothing, jewelry, books, games, fun, puzzles, holiday, seasonal",
+    "canonical_url": "https://www.signals.com/?T1=PE4017",
+    "word_count": 332,
+    "internal_links": [
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS#maincontent",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS#pageTop",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS#pr-reviewdisplay1",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+      "https://www.signals.com/WriteProductReview.aspx?pr_page_id=PE4017&pr_merchant_group_id=12780&pr_merchant_id=1831915570&pr_api_key=3c083ded-89c9-44f5-adbd-ea91a777aaf9",
+      "https://www.signals.com/GiftCardContestRules.aspx",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS",
+      "https://www.signals.com/itemdy00.aspx?ID=841,6788&T1=PE4017+MV+XS"
+    ],
+    "external_links": []
+  },
+  "content_preview": "Skip to Main ContentColor: Activating this element will cause content on the page to be updatedColor:Click to Enlarge | Mouseover to Zoom/PanMoonlit Embossed Velvet TopItem #Price Range$69.95Original PriceCurrent PriceCOLOR:Mauvecolor Mauve selectedSIZE:Size GuideSIZE Selection RequiredItem Added to CartContinue ShoppingView Cart & CheckoutOverviewScoop neckline, long sleeves, and a gentle A-line drapeUniquely angled hem has side slitsPoly/spandexMachine washImportedXS (2-4), S (6-8), M (10-12), L (14-16), XL (18), 1X (18W-20W), 2X (22W-24W), 3X (26W-28W)M hangs 25\"LItem DetailsA shimmery silver sheen adds intrigue to supple mauve velvet. Scoop neckline, long sleeves, and a gentle A-line drape. Uniquely angled hem has side slits. Poly/spandex. Machine wash. Imported. XS (2-4), S (6-8), M (10-12), L (14-16), XL (18), 1X (18W-20W), 2X (22W-24W), 3X (26W-28W). M hangs 25\"L.You May Also LikeMore Like ThesePorcelain Surprise Ornaments$12.95Cast Iron Flower Bird Feeder Stakes$24.95Look Sharp"
+}
