@@ -1,0 +1,85 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/Google-AI-Solutions.html",
+    "title": "404 Not Found",
+    "description": "",
+    "word_count": 27,
+    "crawled_at": "2025-08-01T18:28:40.012093",
+    "h1_tags": [
+      "Not Found"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 0,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "UCI India",
+        "url": "https://www.uci-india.com/",
+        "logo": "https://www.uci-india.com/images/uci-logo.png"
+      },
+      {
+        "@type": "WebPage",
+        "name": "404 Not Found",
+        "description": "The requested URL was not found on this server.",
+        "url": "https://www.uci-india.com/Google-AI-Solutions.html",
+        "dateModified": "2024-01-01T00:00:00Z",
+        "datePublished": "2024-01-01T00:00:00Z",
+        "mainEntity": {
+          "@id": "#mainEntity"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.uci-india.com/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "breadcrumb": {
+          "@id": "#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.uci-india.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Google AI Solutions",
+            "item": "https://www.uci-india.com/Google-AI-Solutions.html"
+          }
+        ]
+      },
+      {
+        "@type": "WebPageElement",
+        "@id": "#mainEntity",
+        "mainEntityOfPage": "https://www.uci-india.com/Google-AI-Solutions.html",
+        "headline": "Not Found",
+        "text": "The requested URL was not found on this server. Additionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request."
+      }
+    ],
+    "@type": "WebPage"
+  },
+  "metadata": {
+    "title": "404 Not Found",
+    "description": "",
+    "h1_tags": [
+      "Not Found"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/Google-AI-Solutions.html",
+    "word_count": 27,
+    "internal_links": [],
+    "external_links": []
+  },
+  "content_preview": "Not FoundThe requested URL was not found on this server.Additionally, a 404 Not Found\nerror was encountered while trying to use an ErrorDocument to handle the request."
+}

@@ -1,0 +1,200 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/careers.html",
+    "title": "Join the Team at UCI India Careers",
+    "description": "Discover UCI India careers that offer real growth in Salesforce, UI/UX, cloud, and creative roles. Join a people-first workplace and build a meaningful, future-ready career.",
+    "word_count": 621,
+    "crawled_at": "2025-08-01T18:27:58.517062",
+    "h1_tags": [
+      "Build Your Future with UCI"
+    ],
+    "h2_tags": [
+      "Explore Meaningful Career Opportunities",
+      "Why Work with Us",
+      "Career Opportunities",
+      "Our Hiring Process",
+      "Life at UCI",
+      "Ready to Join Our Team?"
+    ],
+    "internal_links_count": 23,
+    "external_links_count": 1
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "UCI India",
+        "url": "https://www.uci-india.com/",
+        "logo": "https://www.uci-india.com/images/uci-logo.svg",
+        "description": "UCI India is a forward-thinking company reshaping technology and design, focusing on Salesforce, UI/UX, cloud, and creative solutions.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Vadodara, Gujarat",
+          "addressCountry": "India"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/company/uci-india/",
+          "https://www.facebook.com/UCIIndiaOfficial/",
+          "https://twitter.com/uci_india"
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.uci-india.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Careers",
+            "item": "https://www.uci-india.com/careers.html"
+          }
+        ]
+      },
+      {
+        "@type": "Service",
+        "name": "Join the Team at UCI India Careers",
+        "description": "Discover UCI India careers that offer real growth in Salesforce, UI/UX, cloud, and creative roles. Join a people-first workplace and build a meaningful, future-ready career.",
+        "url": "https://www.uci-india.com/careers.html",
+        "provider": {
+          "@id": "#Organization"
+        },
+        "areaServed": "Vadodara, Gujarat, India",
+        "keywords": [
+          "Salesforce",
+          "UI/UX",
+          "Cloud",
+          "Creative Roles",
+          "Careers",
+          "Jobs",
+          "Vadodara",
+          "India",
+          "Technology",
+          "Design"
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Career Opportunities",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "name": "Salesforce Developer",
+              "description": "Salesforce Developer position with 7-8 years of experience. Full Time, Vadodara location.",
+              "url": "https://www.uci-india.com/careers.html",
+              "jobBenefits": "Opportunity to work on meaningful projects and grow in Salesforce development.",
+              "employmentType": "FULL_TIME",
+              "experienceRequirements": "7-8 years"
+            },
+            {
+              "@type": "Offer",
+              "name": "Tech Lead – Azure / .NET / RFPs",
+              "description": "Tech Lead position in Microsoft Azure / .NET with 7-10 years of experience. Full Time, Vadodara location.",
+              "url": "https://www.uci-india.com/careers.html",
+              "jobBenefits": "Opportunity to lead and work with cutting-edge Microsoft technologies.",
+              "employmentType": "FULL_TIME",
+              "experienceRequirements": "7-10 years"
+            },
+            {
+              "@type": "Offer",
+              "name": "UI UX Developer (Salesforce)",
+              "description": "UI UX Developer position for Salesforce with 4+ years of experience. Full Time, Vadodara location.",
+              "url": "https://www.uci-india.com/careers.html",
+              "jobBenefits": "Opportunity to develop user interfaces and experiences for Salesforce applications.",
+              "employmentType": "FULL_TIME",
+              "experienceRequirements": "4+ years"
+            },
+            {
+              "@type": "Offer",
+              "name": "Business Analyst",
+              "description": "Business Analyst Internship position in Microsoft/Salesforce. Internship, Vadodara location.",
+              "url": "https://www.uci-india.com/careers.html",
+              "employmentType": "INTERNSHIP"
+            },
+            {
+              "@type": "Offer",
+              "name": "CRM Developer",
+              "description": "CRM Developer Internship position in Microsoft. Internship, Vadodara location.",
+              "url": "https://www.uci-india.com/careers.html",
+              "employmentType": "INTERNSHIP"
+            },
+            {
+              "@type": "Offer",
+              "name": "Developer",
+              "description": "Salesforce Developer Internship position. Internship, Vadodara location.",
+              "url": "https://www.uci-india.com/careers.html",
+              "employmentType": "INTERNSHIP"
+            }
+          ]
+        },
+        "serviceType": "Career Opportunities"
+      },
+      {
+        "@type": "WebPage",
+        "name": "Join the Team at UCI India Careers",
+        "description": "Discover UCI India careers that offer real growth in Salesforce, UI/UX, cloud, and creative roles. Join a people-first workplace and build a meaningful, future-ready career.",
+        "url": "https://www.uci-india.com/careers.html",
+        "dateModified": "2023-10-27",
+        "datePublished": "2023-10-27",
+        "publisher": {
+          "@id": "#Organization"
+        },
+        "mainEntity": {
+          "@id": "#Service"
+        }
+      }
+    ],
+    "@type": "Service"
+  },
+  "metadata": {
+    "title": "Join the Team at UCI India Careers",
+    "description": "Discover UCI India careers that offer real growth in Salesforce, UI/UX, cloud, and creative roles. Join a people-first workplace and build a meaningful, future-ready career.",
+    "h1_tags": [
+      "Build Your Future with UCI"
+    ],
+    "h2_tags": [
+      "Explore Meaningful Career Opportunities",
+      "Why Work with Us",
+      "Career Opportunities",
+      "Our Hiring Process",
+      "Life at UCI",
+      "Ready to Join Our Team?"
+    ],
+    "keywords": "UCI India Careers",
+    "canonical_url": "https://www.uci-india.com/careers.html",
+    "word_count": 621,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/System-DevOps-Solutions.html",
+      "https://www.uci-india.com/System-Integration-Services.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/Google-AI-Solutions.html",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/terms-conditions.html",
+      "https://www.uci-india.com/privacy-policy.html",
+      "https://www.uci-india.com/terms-conditions.html",
+      "https://www.uci-india.com/careers.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/"
+    ]
+  },
+  "content_preview": "Loading...Build Your Future with UCIHomeCareersJoin a forward-thinking team that's reshaping technology and designExplore Meaningful Career OpportunitiesWe develop talent, encourage growth, and work on meaningful projects across salesforce development, UI/UX, cloud technologies, and creative solutions. Join our dynamic team where your work matters and your growth is our priority.Why Work with UsMake an Impact. Grow with Us.Your Work MattersYou are not just taking up a job, you're stepping into a place where your work matters. We believe in creating an environment where people feel valued, supported, and encouraged to grow.Our teams work closely together, sharing ideas and solving problems as one. You'll have the chance to learn new skills, take on meaningful projects, and work with people who care about what they do.Build a Career You Can Be Proud OfYour growth is important to us, and we're here to help you build a career that you can be proud of. We offer more than just jobs; we offer"
+}

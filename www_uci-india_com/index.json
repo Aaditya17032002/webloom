@@ -1,0 +1,86 @@
+{
+  "website": {
+    "domain": "www.uci-india.com",
+    "crawl_date": "2025-08-01T18:28:50.935551",
+    "total_pages": 14,
+    "job_id": "f2c57749-3096-4561-ab97-8d6863363278"
+  },
+  "pages": [
+    {
+      "filename": "homepage.json",
+      "url": "https://www.uci-india.com/",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "careers_html.json",
+      "url": "https://www.uci-india.com/careers.html",
+      "title": "Join the Team at UCI India Careers"
+    },
+    {
+      "filename": "service_html.json",
+      "url": "https://www.uci-india.com/service.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "contact_html.json",
+      "url": "https://www.uci-india.com/contact.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "index_html.json",
+      "url": "https://www.uci-india.com/index.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "Salesforce-Solutions_html.json",
+      "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "about_html.json",
+      "url": "https://www.uci-india.com/about.html",
+      "title": "UCI-INDIA"
+    },
+    {
+      "filename": "Microsoft-Solutions_html.json",
+      "url": "https://www.uci-india.com/Microsoft-Solutions.html",
+      "title": "UCI"
+    },
+    {
+      "filename": "terms-conditions_html.json",
+      "url": "https://www.uci-india.com/terms-conditions.html",
+      "title": "404 Not Found"
+    },
+    {
+      "filename": "System-DevOps-Solutions_html.json",
+      "url": "https://www.uci-india.com/System-DevOps-Solutions.html",
+      "title": "404 Not Found"
+    },
+    {
+      "filename": "System-Integration-Services_html.json",
+      "url": "https://www.uci-india.com/System-Integration-Services.html",
+      "title": "404 Not Found"
+    },
+    {
+      "filename": "Google-AI-Solutions_html.json",
+      "url": "https://www.uci-india.com/Google-AI-Solutions.html",
+      "title": "404 Not Found"
+    },
+    {
+      "filename": "privacy-policy_html.json",
+      "url": "https://www.uci-india.com/privacy-policy.html",
+      "title": "404 Not Found"
+    },
+    {
+      "filename": "applicationForm_html.json",
+      "url": "https://www.uci-india.com/applicationForm.html",
+      "title": "UCI-INDIA"
+    }
+  ],
+  "cdn_info": {
+    "base_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_uci-india_com",
+    "loader_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_uci-india_com/schema-loader.js",
+    "minified_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_uci-india_com/schema-loader.min.js",
+    "llm_txt_url": "https://cdn.jsdelivr.net/gh/Aaditya17032002/webloom@main/schema_repo/www_uci-india_com/llm.txt"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 184,
+    "crawled_at": "2025-08-01T18:28:17.862480",
+    "h1_tags": [],
+    "h2_tags": [
+      "Salesforce CRM Solutions",
+      "Salesforce Integration"
+    ],
+    "internal_links_count": 11,
+    "external_links_count": 1
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "UCI-INDIA",
+        "url": "https://www.uci-india.com/",
+        "logo": "https://www.uci-india.com/img/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "803, Iscon Atria - 2, Besides, Gotri Rd, Gotri",
+          "addressLocality": "Vadodara",
+          "addressRegion": "Gujarat",
+          "postalCode": "390020",
+          "addressCountry": "INDIA"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+[PHONE_NUMBER]",
+          "contactType": "customer service",
+          "areaServed": "IN",
+          "availableLanguage": [
+            "en"
+          ]
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.uci-india.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Salesforce Solutions",
+            "item": "https://www.uci-india.com/Salesforce-Solutions.html"
+          }
+        ]
+      },
+      {
+        "@type": "Service",
+        "name": "Salesforce CRM Solutions",
+        "description": "UCI-INDIA offers Salesforce CRM solutions, including lead and opportunity tracking, sales automation, real-time insights, mobile-friendly CRM, and streamlined customer support. We also provide Salesforce integration services for unified data management and workflow automation.",
+        "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+        "provider": {
+          "@id": "#Organization"
+        },
+        "serviceType": "Salesforce CRM Solutions and Integration",
+        "areaServed": "IN",
+        "offers": {
+          "@type": "Offer",
+          "name": "Salesforce CRM Solutions",
+          "description": "Custom Salesforce CRM solutions tailored to your business needs.",
+          "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+          "availability": "https://schema.org/InStock"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.uci-india.com/Salesforce-Solutions.html",
+        "name": "UCI-INDIA",
+        "description": "UCI-INDIA offers Salesforce CRM solutions, including lead and opportunity tracking, sales automation, real-time insights, mobile-friendly CRM, and streamlined customer support. We also provide Salesforce integration services for unified data management and workflow automation.",
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-10-27",
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://www.uci-india.com/img/crmsolutions.webp",
+          "caption": "Salesforce CRM Solutions"
+        },
+        "mainEntity": {
+          "@id": "#Service"
+        },
+        "publisher": {
+          "@id": "#Organization"
+        }
+      }
+    ],
+    "@type": "Service"
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [],
+    "h2_tags": [
+      "Salesforce CRM Solutions",
+      "Salesforce Integration"
+    ],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/Salesforce-Solutions.html",
+    "word_count": 184,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordSalesforce SolutionsHomeSolutionsSalesforce CRM SolutionsDevelopment of value-added, industry-specific ISV solutions, such as:Lead and opportunity tracking from initial contact to conversion.Automate sales tasks to improve efficiency and focus on relationships.Access real-time insights with customizable dashboards and reports.Mobile-friendly CRM to manage your business on the go.Streamline customer support with case management and AI-driven tools.For every initiative, we define and create the solution; work closely with Salesforce to define Go-To-Market strategySalesforce IntegrationSeamlessly integrate Salesforce with your existing tools to create a fully optimized business ecosystem.Key Integrate Salesforce with external systems for unified data management.Build custom workflows to automate and streamline processes.Expand capabilities with pre-built solutions from AppExchange.Platform Customization on SalesforceIntegrate external data sources using Salesfor"
+}

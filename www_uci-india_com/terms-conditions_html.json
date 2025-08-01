@@ -1,0 +1,97 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/terms-conditions.html",
+    "title": "404 Not Found",
+    "description": "",
+    "word_count": 27,
+    "crawled_at": "2025-08-01T18:28:29.946294",
+    "h1_tags": [
+      "Not Found"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 0,
+    "external_links_count": 0
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "UCI India",
+        "url": "https://www.uci-india.com/",
+        "logo": "https://www.uci-india.com/images/uci_logo.png",
+        "sameAs": [
+          "https://www.facebook.com/UCIIndia/",
+          "https://twitter.com/UCI_India"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.uci-india.com/terms-conditions.html",
+        "name": "404 Not Found",
+        "description": "The requested URL was not found on this server.",
+        "datePublished": "2023-10-27T00:00:00+00:00",
+        "dateModified": "2023-10-27T00:00:00+00:00",
+        "mainEntity": {
+          "@id": "#mainEntity"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.uci-india.com/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "breadcrumb": {
+          "@id": "#breadcrumb"
+        },
+        "publisher": {
+          "@id": "https://www.uci-india.com/#organization"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.uci-india.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Terms & Conditions",
+            "item": "https://www.uci-india.com/terms-conditions.html"
+          }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "url": "https://www.uci-india.com/",
+        "name": "UCI India",
+        "description": "The UCI India website.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.uci-india.com/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "@id": "https://www.uci-india.com/#website"
+      }
+    ],
+    "@type": "WebPage"
+  },
+  "metadata": {
+    "title": "404 Not Found",
+    "description": "",
+    "h1_tags": [
+      "Not Found"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/terms-conditions.html",
+    "word_count": 27,
+    "internal_links": [],
+    "external_links": []
+  },
+  "content_preview": "Not FoundThe requested URL was not found on this server.Additionally, a 404 Not Found\nerror was encountered while trying to use an ErrorDocument to handle the request."
+}

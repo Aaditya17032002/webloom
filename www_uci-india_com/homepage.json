@@ -1,0 +1,156 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 360,
+    "crawled_at": "2025-08-01T18:27:50.759104",
+    "h1_tags": [
+      "Accelerating Innovation with Microsoft Azure.",
+      "Designing a Digital Future with Adobe.",
+      "Empowering Business with Salesforce",
+      "Elevating Business through Google AI",
+      "Accelerating Innovation with Microsoft Azure.",
+      "Designing a Digital Future with Adobe.",
+      "Empowering Business with Salesforce",
+      "Elevating Business through Google AI",
+      "Unlock the Power of Technology",
+      "Empowering Innovation Through Diversity"
+    ],
+    "h2_tags": [],
+    "internal_links_count": 10,
+    "external_links_count": 2
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "UCI-INDIA",
+        "url": "https://www.uci-india.com/",
+        "description": "UCI-INDIA provides custom solutions to enhance productivity, customer engagement, and innovation, leveraging Microsoft Azure, Adobe, Salesforce, and Google AI.",
+        "logo": "https://www.uci-india.com/img/uci-logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Unknown",
+          "addressLocality": "Unknown",
+          "addressRegion": "Unknown",
+          "postalCode": "Unknown",
+          "addressCountry": "IN"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+91-Unknown",
+          "contactType": "customer service",
+          "areaServed": "IN",
+          "availableLanguage": "en"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/company/unknown"
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.uci-india.com/",
+        "name": "UCI-INDIA",
+        "description": "UCI-INDIA provides custom solutions to enhance productivity, customer engagement, and innovation, leveraging Microsoft Azure, Adobe, Salesforce, and Google AI.",
+        "datePublished": "2023-10-27T00:00:00+00:00",
+        "dateModified": "2023-10-27T00:00:00+00:00",
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://www.uci-india.com/img/uci-logo.png",
+          "width": "600",
+          "height": "600"
+        },
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.uci-india.com/"
+            }
+          ]
+        },
+        "mainEntity": {
+          "@id": "https://www.uci-india.com/#organization"
+        }
+      },
+      {
+        "@type": "Service",
+        "name": "Microsoft Azure Solutions",
+        "description": "Empower your business with scalable cloud solutions that enable flexibility, security, and seamless growth with Microsoft Azure.",
+        "provider": {
+          "@id": "https://www.uci-india.com/#organization"
+        },
+        "url": "https://www.uci-india.com/"
+      },
+      {
+        "@type": "Service",
+        "name": "Adobe Solutions",
+        "description": "Create, collaborate, and transform your digital experiences with Adobe’s powerful design and marketing tools.",
+        "provider": {
+          "@id": "https://www.uci-india.com/#organization"
+        },
+        "url": "https://www.uci-india.com/"
+      },
+      {
+        "@type": "Service",
+        "name": "Salesforce Solutions",
+        "description": "Unlock the potential of your business with tailored CRM solutions that drive engagement, efficiency, and growth with Salesforce.",
+        "provider": {
+          "@id": "https://www.uci-india.com/#organization"
+        },
+        "url": "https://www.uci-india.com/"
+      },
+      {
+        "@type": "Service",
+        "name": "Google AI Solutions",
+        "description": "Leverage cutting-edge Google AI technologies to innovate, automate, and elevate your decision-making process.",
+        "provider": {
+          "@id": "https://www.uci-india.com/#organization"
+        },
+        "url": "https://www.uci-india.com/"
+      }
+    ],
+    "@type": "Service"
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [
+      "Accelerating Innovation with Microsoft Azure.",
+      "Designing a Digital Future with Adobe.",
+      "Empowering Business with Salesforce",
+      "Elevating Business through Google AI",
+      "Accelerating Innovation with Microsoft Azure.",
+      "Designing a Digital Future with Adobe.",
+      "Empowering Business with Salesforce",
+      "Elevating Business through Google AI",
+      "Unlock the Power of Technology",
+      "Empowering Innovation Through Diversity"
+    ],
+    "h2_tags": [],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/",
+    "word_count": 360,
+    "internal_links": [
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/",
+      "https://htmlcodex.com"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordWelcome To UCIAccelerating Innovation with Microsoft Azure.Empower your business with scalable cloud solutions that enable flexibility, security, and seamless growth.Welcome To UCIDesigning a Digital Future with Adobe.Create, collaborate, and transform your digital experiences with Adobe’s powerful design and marketing tools.Welcome To UCIEmpowering Business with SalesforceUnlock the potential of your business with tailored CRM solutions that drive engagement, efficiency, and growth.Welcome To UCIElevating Business through Google AILeverage cutting-edge Google AI technologies to innovate, automate, and elevate your decision-making process.Welcome To UCIAccelerating Innovation with Microsoft Azure.Empower your business with scalable cloud solutions that enable flexibility, security, and seamless growth.Welcome To UCIDesigning a Digital Future with Adobe.Create, collaborate, and transform your digital experiences with Adobe’s powerful design and marketing tools"
+}

@@ -1,0 +1,147 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/service.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 198,
+    "crawled_at": "2025-08-01T18:28:04.267454",
+    "h1_tags": [
+      "We Provide Best Services"
+    ],
+    "h2_tags": [
+      "System Integration Services",
+      "Technology Services",
+      "Strategic Staffing Services"
+    ],
+    "internal_links_count": 11,
+    "external_links_count": 2
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "UCI-INDIA",
+        "url": "https://www.uci-india.com/",
+        "logo": "https://www.uci-india.com/img/logo.png",
+        "description": "UCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "803, Iscon Atria - 2, Besides, Gotri Rd, Gotri",
+          "addressLocality": "Vadodara",
+          "addressRegion": "Gujarat",
+          "postalCode": "390020",
+          "addressCountry": "INDIA"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "telephone": "+91-XXX-XXX-XXXX",
+          "email": "info@uci-india.com"
+        }
+      },
+      {
+        "@type": "Service",
+        "name": "UCI-INDIA Services",
+        "description": "UCI-INDIA offers comprehensive technology solutions, including System Integration, Technology Services, and Strategic Staffing Services, tailored to your unique business needs.",
+        "url": "https://www.uci-india.com/service.html",
+        "provider": {
+          "@id": "#Organization"
+        },
+        "serviceType": [
+          "System Integration Services",
+          "Technology Services",
+          "Strategic Staffing Services"
+        ],
+        "areaServed": "India",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "priceCurrency": "INR"
+        },
+        "keywords": [
+          "System Integration",
+          "Application Deployment",
+          "Technology Solutions",
+          "Application Support",
+          "Infrastructure",
+          "Cloud Solutions",
+          "Digital Transformation",
+          "IT Consulting",
+          "Staffing",
+          "Project Management"
+        ],
+        "dateModified": "2024-10-27T12:00:00+00:00",
+        "datePublished": "2024-10-27T12:00:00+00:00"
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.uci-india.com/service.html",
+        "name": "UCI-INDIA",
+        "description": "UCI-INDIA offers comprehensive technology solutions, including System Integration, Technology Services, and Strategic Staffing Services.",
+        "dateModified": "2024-10-27T12:00:00+00:00",
+        "datePublished": "2024-10-27T12:00:00+00:00",
+        "about": {
+          "@id": "#Service"
+        },
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.uci-india.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Service",
+              "item": "https://www.uci-india.com/service.html"
+            }
+          ]
+        },
+        "mainEntity": {
+          "@id": "#Service"
+        },
+        "publisher": {
+          "@id": "#Organization"
+        }
+      }
+    ],
+    "@type": "Service"
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [
+      "We Provide Best Services"
+    ],
+    "h2_tags": [
+      "System Integration Services",
+      "Technology Services",
+      "Strategic Staffing Services"
+    ],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/service.html",
+    "word_count": 198,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/service.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/",
+      "https://htmlcodex.com"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordOur ServicesHomeServiceOur ServicesWe Provide Best ServicesOur commitment to excellence ensures that you receive innovative solutions tailored to your unique needs. Experience unmatched quality and support that drives your business forward.System Integration ServicesSpecializing in low-risk system integration and application deployment, we partner with clients to deliver innovative technology solutionsTechnology ServicesComprehensive Tech Services for Strategy, Application Support, Infrastructure, Cloud Solutions, and Innovative Digital Transformation.Strategic Staffing ServicesWe provide expert IT consulting, staffing, and project management services to NYC , client needs with highly skilled consultants and seamless technology integration.System Integration ServicesApplication ModernizationDigital Strategy and ImplementationCreative & UX ServicesCloud Enablement & MigrationCustomer Relationship ManagementMobility ServicesBusiness Process ReengineeringCOTS & "
+}

@@ -1,0 +1,128 @@
+{
+  "page_info": {
+    "url": "https://www.uci-india.com/applicationForm.html",
+    "title": "UCI-INDIA",
+    "description": "",
+    "word_count": 106,
+    "crawled_at": "2025-08-01T18:28:47.907015",
+    "h1_tags": [],
+    "h2_tags": [
+      "Job Application Form"
+    ],
+    "internal_links_count": 11,
+    "external_links_count": 2
+  },
+  "json_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "name": "UCI-INDIA",
+        "url": "https://www.uci-india.com/",
+        "description": "UCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "803, Iscon Atria - 2, Besides, Gotri Rd, Gotri",
+          "addressLocality": "Vadodara",
+          "addressRegion": "Gujarat",
+          "postalCode": "390020",
+          "addressCountry": "INDIA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "22.3072",
+          "longitude": "73.1812"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "telephone": "+91-XXXXXXXXXX"
+        }
+      },
+      {
+        "@type": "Service",
+        "name": "Job Application Service",
+        "description": "Job application form for UCI-INDIA, allowing candidates to apply for open positions.",
+        "url": "https://www.uci-india.com/applicationForm.html",
+        "provider": {
+          "@id": "#Organization"
+        },
+        "areaServed": "Vadodara, Gujarat, INDIA",
+        "serviceType": "Online Application"
+      },
+      {
+        "@type": "WebPage",
+        "name": "UCI-INDIA Job Application Form",
+        "description": "Job application form for UCI-INDIA",
+        "url": "https://www.uci-india.com/applicationForm.html",
+        "datePublished": "2024-01-01T00:00:00+00:00",
+        "dateModified": "2024-10-27T00:00:00+00:00",
+        "inLanguage": "en-US",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.uci-india.com/applicationForm.html?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.uci-india.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Careers",
+              "item": "https://www.uci-india.com/careers.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Job Application Form",
+              "item": "https://www.uci-india.com/applicationForm.html"
+            }
+          ]
+        },
+        "mainEntity": {
+          "@id": "#Service"
+        },
+        "publisher": {
+          "@id": "#Organization"
+        }
+      }
+    ],
+    "@type": "Service"
+  },
+  "metadata": {
+    "title": "UCI-INDIA",
+    "description": "",
+    "h1_tags": [],
+    "h2_tags": [
+      "Job Application Form"
+    ],
+    "keywords": "",
+    "canonical_url": "https://www.uci-india.com/applicationForm.html",
+    "word_count": 106,
+    "internal_links": [
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/index.html",
+      "https://www.uci-india.com/",
+      "https://www.uci-india.com/about.html",
+      "https://www.uci-india.com/service.html",
+      "https://www.uci-india.com/careers.html",
+      "https://www.uci-india.com/Salesforce-Solutions.html",
+      "https://www.uci-india.com/Microsoft-Solutions.html",
+      "https://www.uci-india.com/contact.html",
+      "https://www.uci-india.com/applicationForm.html",
+      "https://www.uci-india.com/applicationForm.html"
+    ],
+    "external_links": [
+      "https://www.linkedin.com/company/unite-computech-info-india-pvt-ltd/",
+      "https://htmlcodex.com"
+    ]
+  },
+  "content_preview": "Loading...Search by keywordApplication FormHomeCareersJob Application FormFull NameEmailAgeSelect GenderMaleFemalePrefer not to sayGenderYears of experienceSelect PositionSalesforce DeveloperUI / UXMicrosoft AzureAdobePositionHow did you get to know about UCIAny previous experiences?What sets you apart from anyone else?Why are you interested in this job role?Upload ResumeSubmit ApplicationApplication SubmittedThank you for applying. Your application has been submitted successfully.CloseUCI INDIAUCI, a certified business, leverages More than 12 years of expertise to deliver innovative IT solutions. We focus on compliance, and quality and service for our clients.Useful LinksHomeAbout UsServicesCareersUseful LinksSalesforce SolutionsMicrosoft SolutionsContactAddress803, Iscon Atria - 2, Besides, Gotri Rd, Gotri, Vadodara, Gujarat 390020, INDIACopyright | 2024, UCI-INDIA |   All right reserved. Terms and Conditions"
+}
